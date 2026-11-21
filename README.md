@@ -99,16 +99,17 @@ Extract a voice pack into the game folder, so that its files end up here:
 
 | Language | Folder | Files |
 |---|---|---|
-| Danish | `Musik/tutorial_dnk/` | `1_1dk.aac` … (160 files) |
-| Estonian | `Musik/tutorial_est/` | `1_1ee.aac` … (160 files) |
+| Danish | `Musik/tutorial_dan/` | `1_1da.aac` … (160 files) |
+| Estonian | `Musik/tutorial_est/` | `1_1et.aac` … (160 files) |
 | Finnish | `Musik/tutorial_fin/` | `1_1fi.aac` … (160 files) |
 | German | `Musik/tutorial_deu/` | `1_1de.aac` … (160 files) |
-| Latvian | `Musik/tutorial_lva/` | `1_1lv.aac` … (160 files) |
-| Lithuanian | `Musik/tutorial_ltu/` | `1_1lt.aac` … (160 files) |
-| Norwegian | `Musik/tutorial_nor/` | `1_1no.aac` … (160 files) |
+| Latvian | `Musik/tutorial_lav/` | `1_1lv.aac` … (160 files) |
+| Lithuanian | `Musik/tutorial_lit/` | `1_1lt.aac` … (160 files) |
+| Norwegian | `Musik/tutorial_nor/` | `1_1nb.aac` … (160 files) |
 | Russian | `Musik/tutorial_rus/` | `1_1ru.aac` … (160 files) |
-| Swedish | `Musik/tutorial_swe/` | `1_1se.aac` … (160 files) |
+| Swedish | `Musik/tutorial_swe/` | `1_1sv.aac` … (160 files) |
 
+Folder = `tutorial_<ISO 639-2 language code>`, suffix = ISO 639-1 language code.
 A file name is `<chapter>_<screen><suffix>.aac`, with the same chapter and screen numbers as the
 original `Musik/Tutorial/<chapter>_<screen>uk.mp3`. The patched tutorial expects exactly these
 names and the `.aac` extension.
