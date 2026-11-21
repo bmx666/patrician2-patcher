@@ -93,7 +93,8 @@ mission scripts, credits and the main menu picture. Russian also translates ship
 
 The English tutorial uses the original voice. Voice packs for the other languages are separate
 downloads and are not part of this patch. Install the voice pack of a language to hear the
-tutorial speech in that language.
+tutorial speech in that language. Without a voice file the tutorial screen stays silent (no
+English fallback).
 
 Extract a voice pack into the game folder, so that its files end up here:
 
@@ -110,9 +111,11 @@ Extract a voice pack into the game folder, so that its files end up here:
 | Swedish | `Musik/tutorial_swe/` | `1_1sv.aac` … (160 files) |
 
 Folder = `tutorial_<ISO 639-2 language code>`, suffix = ISO 639-1 language code.
-A file name is `<chapter>_<screen><suffix>.aac`, with the same chapter and screen numbers as the
-original `Musik/Tutorial/<chapter>_<screen>uk.mp3`. The patched tutorial expects exactly these
-names and the `.aac` extension.
+A file name is `<chapter>_<screen><suffix>.aac` or `.mp3`, with the same chapter and screen
+numbers as the original `Musik/Tutorial/<chapter>_<screen>uk.mp3`. The game looks for the file at
+run time: whichever of `.aac` / `.mp3` exists is played, so both formats can be mixed in one folder
+and files can be added or replaced at any time. If both exist for a screen, the one named in the
+tutorial script is played.
 
 File formats the game can play:
 
@@ -120,8 +123,7 @@ File formats the game can play:
   Every file starts with an ID3v2.4 tag holding `TLEN` (the length in milliseconds); without it
   the game computes a wrong length for the speech. Decoded by `Win32/Aacdec.asi`.
 - **MP3**: MPEG-1 Layer III, 128 kbps CBR, 44.1 kHz, mono, without ID3 or Xing headers: the same
-  format as the original tutorial files. The current patch refers to `.aac` voice files, so MP3
-  voice files are used only by a patch built for them.
+  format as the original tutorial files. Decoded by `Win32/Mp3dec.asi`.
 
 ## New Features
 
