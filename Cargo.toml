@@ -1,0 +1,17 @@
+[package]
+name = "patrician2-patcher"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Unofficial patcher for Patrician 2 (GOG): 10 languages with in-game switch, widescreen, bug fixes and QoL improvements."
+repository = "https://github.com/bmx666/patrician2-patcher"
+
+[dependencies]
+flate2 = "1.0.35"
+sha2 = "0.10.8"
+
+[profile.release]
+opt-level = 3
+lto = true
+codegen-units = 1
+strip = true
