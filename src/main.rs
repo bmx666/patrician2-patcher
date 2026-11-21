@@ -280,6 +280,8 @@ pub(crate) fn read_file(path: &Path) -> Result<Vec<u8>> {
 }
 
 /// Writes via a temporary file in the same folder, then renames over the target.
+/// Falls back to copying when the rename is refused: some Wine setups cannot move files
+/// (`ERROR_NOT_SAME_DEVICE`, os error 17) but can copy them.
 fn write_file(path: &Path, data: &[u8]) -> Result<()> {
     if let Some(dir) = path.parent() {
         fs::create_dir_all(dir).map_err(|e| format!("{}: {e}", dir.display()))?;
@@ -288,10 +290,12 @@ fn write_file(path: &Path, data: &[u8]) -> Result<()> {
     tmp.push(".p2tmp");
     let tmp = PathBuf::from(tmp);
     fs::write(&tmp, data).map_err(|e| format!("{}: {e}", tmp.display()))?;
-    fs::rename(&tmp, path).map_err(|e| {
+    if let Err(moved) = fs::rename(&tmp, path) {
+        let copied = fs::copy(&tmp, path);
         let _ = fs::remove_file(&tmp);
-        format!("{}: {e}", path.display())
-    })
+        copied.map_err(|e| format!("{}: {moved}; copy fallback: {e}", path.display()))?;
+    }
+    Ok(())
 }
 
 /// All regular files under `root`, as sorted relative paths with `/` separators.
