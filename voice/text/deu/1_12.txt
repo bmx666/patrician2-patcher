@@ -1,0 +1,1 @@
+Das Auswahlfenster zeigt nun Informationen über das gewählte Schiff. Unter dem Namen sehen Sie, wo sich das Schiff befindet. Wird es woandershin geschickt, sehen Sie hier auch das Ziel. Daneben steht die Ladung. Die obere Zahl zeigt den Laderaum, die mittlere, wie viel Platz die Waren einnehmen. Die untere Zahl zeigt schließlich, wie viel Platz Besatzung und Bewaffnung brauchen.

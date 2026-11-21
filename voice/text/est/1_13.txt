@@ -1,0 +1,2 @@
+Lisaks näidatakse siin laeva kiirust sõlmedes, laeva seisukorda 0 kuni 100% ja meeskonda.
+Nende kõrval on laeva relvastuse tugevus.

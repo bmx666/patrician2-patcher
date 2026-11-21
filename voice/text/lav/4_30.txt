@@ -1,0 +1,1 @@
+Tagad vienreiz noklikšķiniet uz iedzīvotāju simbola virsraksta joslā. Logā redzēsiet katras grupas lielumu. Ievērojiet, ka pilsētā vienmēr ir mazāk bagāto nekā turīgo un mazāk turīgo nekā nabagu.

@@ -1,0 +1,2 @@
+Jūs redzat, kuri kuģi pieder jums, kā tos sauc un kur tie pašlaik atrodas. Šajā apmācībā jums ir tikai viens kuģis, tāpēc kuģu saraksts rāda tikai vienu kuģi.
+Kuģu saraksts rāda nosaukumu, kuģa tipu, statusu un atrašanās vietu, kravu un uz kuģa esošo preču vērtību. Ar pogu zem saraksta varat pārslēgties uz apkalpes un bruņojuma skatu.

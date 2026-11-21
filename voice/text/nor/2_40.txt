@@ -1,0 +1,1 @@
+Under boken til høyre finner du byggetid og byggekostnader, og under det hvilke råvarer som trengs. Å bygge et nytt skip krever mye råvarer. Du må enten ha dem på lager i kontoret ditt eller kjøpe dem direkte fra byen, om de finnes. Den beregnede byggetiden oppgis i dager.

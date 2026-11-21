@@ -1,0 +1,1 @@
+I valgvinduet ser du nå byggekostnader, byggetid og nødvendige byggematerialer. Materialene tas fra kontoret ditt hvis de finnes der. Hvis ikke, kjøpes de direkte fra byen, og innkjøpsprisene vises.

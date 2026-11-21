@@ -1,0 +1,1 @@
+Poistu kartalta ja palaa Lyypekkiin napsauttamalla kartalla Lyypekin vieressä olevaa sinistä painiketta. Painikepalkin viimeinen painike aivan oikealla vie asetusvalikkoon. Siellä voit ladata ja tallentaa pelejä sekä lopettaa pelin.

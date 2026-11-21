@@ -1,0 +1,2 @@
+Hier werden Informationen zu ausgewählten Schiffen angezeigt. Probieren wir es aus.
+Verschieben Sie den Ausschnitt zum Hafen der Stadt. Dort sehen Sie ein Schiff namens Viking. Das ist Ihr Schiff. Klicken Sie es an, um es auszuwählen.

@@ -1,0 +1,1 @@
+Klicken Sie auf das Bevölkerungssymbol, um die Verteilung der Bevölkerung und die Zufriedenheit der Bürger dieser Stadt zu sehen. Erscheinen Pfeile hinter der Zufriedenheit, zeigen sie an, ob die Bürger zufriedener oder unzufriedener werden.

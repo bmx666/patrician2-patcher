@@ -1,0 +1,1 @@
+Die Titelleiste hat sich übrigens verändert. Da Sie nicht mehr in einer Stadt sind, werden vier Schiffsknöpfe angezeigt. Mit ihnen wechseln Sie zwischen Ihren Schiffen. Dabei wird zwischen ankernden und segelnden Schiffen sowie Konvois unterschieden.

@@ -1,0 +1,2 @@
+Om du klickar på stadsportsknappen lämnar du staden och hamnar på sjökortet.
+I stället för staden visas nu sjökortet. Som vanligt kan du flytta utsnittet med piltangenterna.

@@ -1,0 +1,1 @@
+Klik på skibsværftet i byens havn for at gå ind. På skibsværftet kan du reparere dine skibe, bestille nye skibe, udbygge et skib eller ændre et skibs navn. Vi er kun interesseret i knappen Reparér skib. Klik på den.

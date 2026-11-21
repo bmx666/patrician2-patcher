@@ -1,0 +1,1 @@
+Kad kuģis ir atlasīts, atlases logs rāda, cik ilgi aptuveni ilgs remonts. Protams, tas atkarīgs no kuģa pašreizējā stāvokļa. Tagad pagaidiet, līdz remonts ir pabeigts. Tam varat izmantot arī paātrināšanas pogu.

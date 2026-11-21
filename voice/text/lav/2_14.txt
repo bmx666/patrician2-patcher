@@ -1,0 +1,1 @@
+Tagad atkal atlasiet kuģi Viking un aizveriet kuģu sarakstu. Kuģis tiks parādīts ekrāna vidū. Tagad velciet jūras karti pa labi un uz augšu, līdz redzama Rīga. Tad ar labo pogu noklikšķiniet uz sarkanās pogas pie Rīgas, lai kuģim noteiktu galamērķi Rīga.

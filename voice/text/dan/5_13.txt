@@ -1,0 +1,1 @@
+Lad os nu angribe fjenden på en anden måde. Når du har valgt dit skib, højreklikker du blot på en fjende. Dit skib angriber og sænker ham nu automatisk. Sørg for, at Entring ikke er aktiveret, ellers vil din besætning entre fjendens skib.

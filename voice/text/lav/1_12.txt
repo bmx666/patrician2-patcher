@@ -1,0 +1,1 @@
+Atlases logs tagad rāda informāciju par atlasīto kuģi. Zem kuģa nosaukuma redzama tā atrašanās vieta. Ja kuģis tiek sūtīts citur, šeit redzams arī galamērķis. Blakus ir kuģa krava. Augšējais skaitlis rāda kravnesību, vidējais – cik vietas aizņem preces. Apakšējais skaitlis rāda, cik vietas vajag apkalpei un bruņojumam.

@@ -1,0 +1,1 @@
+Du endrer skipets kurs ved å høyreklikke på et punkt i vannet. Du kan også holde høyre museknapp nede og samtidig bevege musen. Pilen på vannet viser deg da hvilken retning skipet nå seiler i.

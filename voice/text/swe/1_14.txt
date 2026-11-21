@@ -1,0 +1,1 @@
+Under det ser du en lista över alla varor ombord. Observera att det finns två måttenheter: läster och fat. En läst motsvarar exakt 10 fat.

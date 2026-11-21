@@ -1,0 +1,2 @@
+Titelraden finns överst på skärmen. När du är i en stad visar den från vänster till höger: befolkning, stadens namn, antalet byggnader du äger i staden, dina kontanter och datum.
+Bakom de små symbolerna på titelraden döljer sig också knappar.

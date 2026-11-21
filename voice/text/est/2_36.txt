@@ -1,0 +1,1 @@
+Samamoodi saad palgata kapteneid, kui neid on kohal. Pea meeles, et igal laeval saab olla ainult üks kapten, ning arvesta, et vabad kaptenid on väga nõutud ja igal juhul haruldased.

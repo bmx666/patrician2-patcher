@@ -1,0 +1,2 @@
+Aseistus tekee laivasta muuten myös vakaamman.
+Tarkastellaan nyt kannen toimintoja ja näyttöjä. Ensin näytetään nopeus, kunto, miehistö ja aseiden vahvuus. Niiden vieressä on kaksi painiketta: Valtaa ja Tulta.

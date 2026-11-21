@@ -1,0 +1,2 @@
+Mit dem Rechtsklick haben Sie Ihrem Schiff ein neues Ziel gegeben. Das Schiff segelt dorthin und wartet auf weitere Befehle.
+Damit wir nicht zu lange warten müssen, bis das Schiff sein Ziel erreicht, sehen wir uns den Zeitraffer an.

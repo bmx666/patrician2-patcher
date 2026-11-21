@@ -1,0 +1,2 @@
+Med dette højreklik har du givet skibet en ordre, i dette tilfælde at sejle til et punkt på søkortet. Efter et stykke tid bliver skibet synligt på søkortet.
+Venstreklik nu igen på et tomt sted på havet. Det ophæver alle tidligere valg.

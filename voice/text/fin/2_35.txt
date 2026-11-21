@@ -1,0 +1,1 @@
+Harjoituksen vuoksi ota palvelukseen 5 merimiestä siirtämällä merimiehiä kapakasta laivaan ja napsauttamalla painiketta Pestaa merimiehiä.

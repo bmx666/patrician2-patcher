@@ -1,0 +1,2 @@
+Bakom nästa knapp döljer sig nyhetsmenyn. Här sparas alla brev du har fått. Klicka på knappen så ser du nyhetsmenyn där olika nyheter har sorterats in. Klicka på ett av ämnena och sedan på en nyhet för att läsa den.
+Stäng nyheterna, precis som alla andra fönster, med stängknappen eller ett högerklick.

@@ -1,0 +1,2 @@
+Dešinėje matote laivo įgulą ir ginkluotę. Skaičius rodo jūreivių skaičių laive. Žvaigždė reiškia, kad laive yra kapitonas.
+Po ginklų simboliu rodomi dideli ir maži rutuliai. Čia gali būti rodoma ne daugiau kaip penki rutuliai, penki maži rutuliai lygūs vienam dideliam.

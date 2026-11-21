@@ -1,0 +1,2 @@
+La oss først se på hvordan skjermbildet i spillet er inndelt. Det består av fem deler.
+Her vises byene og sjøkartet. Ved starten av et spill begynner du alltid i hjembyen din, som i dette tilfellet er Lübeck.

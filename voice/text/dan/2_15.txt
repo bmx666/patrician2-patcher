@@ -1,0 +1,1 @@
+Valgvinduet viser nu skibets ændrede status. I stedet for et anker ser du nu et skib og Riga som mål. Den anslåede rejsetid i dage vises også.

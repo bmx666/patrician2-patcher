@@ -1,0 +1,1 @@
+Minikarte rāda visu pilsētas teritoriju. Taisnstūris apzīmē redzamo fragmentu. Ja pārvietojat fragmentu, pārvietojas arī taisnstūris.

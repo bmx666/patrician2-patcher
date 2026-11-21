@@ -1,0 +1,1 @@
+Kun napsautat rahasymbolia, avautuu tilastovalikon ikkuna. Tätä valikkoa ei kuitenkaan käsitellä tässä opetuksessa. Sulje ikkuna napsauttamalla sulkemispainiketta ikkunan oikeassa alakulmassa tai napsauttamalla hiiren oikealla painikkeella.

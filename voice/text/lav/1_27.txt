@@ -1,0 +1,2 @@
+Vēl viens padoms darbam ar peli:
+Objektus, piemēram, kuģus un ēkas, atlasa ar kreiso klikšķi. Ar labo klikšķi atlasīto kuģi var nosūtīt uz citu vietu. Turklāt ar labo klikšķi galvenajā skatā aizver logus.

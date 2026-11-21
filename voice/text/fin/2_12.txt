@@ -1,0 +1,1 @@
+Napsauta nyt tätä viiriä nähdäksesi laivat tarkemmin. Kuten näet, tuttu laivaluettelo avautuu. Se näyttää kaikki kaupungissa ankkurissa olevat laivat. Napsauta nyt luettelossa laivaa Lydia ja katso, miten valintaikkuna näyttää sen.

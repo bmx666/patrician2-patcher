@@ -1,0 +1,1 @@
+Her ser du også hvilke andre varer som produseres i byen. Klikk på knappen Produksjon. Siden ingen handelsmenn ennå har åpnet en bedrift i denne byen, vises bare produksjonen fra byens egne bedrifter.

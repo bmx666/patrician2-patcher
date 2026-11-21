@@ -1,0 +1,1 @@
+Das Gebäudesymbol ändert die Darstellung der Gebäude. Damit unterscheiden Sie Ihre eigenen Gebäude von denen anderer.

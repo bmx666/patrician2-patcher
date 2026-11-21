@@ -1,0 +1,2 @@
+Tiitliriba asub ekraani ülaservas. Kui oled linnas, näitab see vasakult paremale: rahvastikku, linna nime, sinu hoonete arvu linnas, sinu sularaha ja kuupäeva.
+Tiitliriba väikeste sümbolite taga on peidus ka nupud.

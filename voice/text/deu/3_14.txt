@@ -1,0 +1,1 @@
+Zwischen Stadt und Schiff liegen die Knöpfe zum Kaufen und Verkaufen. Auf jedem Knopf steht bereits ein Preis. Kaufen heißt, Sie kaufen. Verkaufen heißt, Sie verkaufen.

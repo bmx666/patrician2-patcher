@@ -1,0 +1,2 @@
+Her ser du hvilke skip som tilhører deg, hva de heter, og hvor de befinner seg nå. Du har bare ett skip i denne opplæringen, så skipslisten viser bare ett skip.
+Skipslisten viser navn, skipstype, status og posisjon, last og verdien av varene om bord. Med knappen under listen kan du bytte til visning av mannskap og bevæpning.

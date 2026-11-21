@@ -1,0 +1,1 @@
+Alemmalla rivillä näkyy ensin laivan nopeus solmuina. Satamassa se on tietysti 0. Sen vieressä näet laivan kunnon, joka on tällä hetkellä noin 100%, joten laiva on täydellisessä kunnossa.

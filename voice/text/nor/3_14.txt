@@ -1,0 +1,1 @@
+Mellom by og skip finner du knappene for kjøp og salg. Hver knapp viser allerede en pris. Kjøp betyr at du kjøper. Selg betyr at du selger.

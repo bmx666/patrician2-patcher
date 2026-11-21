@@ -1,0 +1,1 @@
+Minikortet viser hele byens område. Rektanglet viser det udsnit, du ser. Når du flytter udsnittet, flytter rektanglet sig også.

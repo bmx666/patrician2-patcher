@@ -1,0 +1,2 @@
+Endnu et tip om brugen af musen:
+Med venstreklik vælger du objekter som skibe og bygninger. Med højreklik sender du det valgte skib et andet sted hen. Desuden lukker du et vindue i hovedvisningen med højreklik.

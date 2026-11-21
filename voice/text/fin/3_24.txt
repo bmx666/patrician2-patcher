@@ -1,0 +1,1 @@
+Painikkeella Kulutus näet, mitä tavaroita ja kuinka paljon kaupungin porvarit ja laitokset kuluttavat viikoittain. Näiden määrien avulla voit arvioida, kuinka kauan tavaroita riittää.

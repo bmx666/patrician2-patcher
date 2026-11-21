@@ -1,0 +1,1 @@
+Om du klickar på pengasymbolen öppnas ett fönster med statistikmenyn. Den menyn förklaras dock inte i denna handledning. För att stänga ett fönster klickar du antingen på stängknappen i fönstrets nedre högra hörn eller högerklickar.

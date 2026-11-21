@@ -1,0 +1,2 @@
+Med detta högerklick har du gett skeppet order att utföra en handling, i det här fallet att segla till en position på sjökortet. Efter en stund syns skeppet på sjökortet.
+Vänsterklicka nu på en tom yta på havet. Det upphäver alla tidigare val.

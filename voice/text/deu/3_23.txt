@@ -1,0 +1,1 @@
+Hier sehen Sie auch, welche Waren sonst noch in der Stadt hergestellt werden. Klicken Sie auf den Knopf Produktion. Da noch kein Händler einen Betrieb in dieser Stadt eröffnet hat, wird nur die Produktion der städtischen Betriebe angezeigt.

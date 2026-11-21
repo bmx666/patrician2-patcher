@@ -1,0 +1,2 @@
+Otsikkopalkki on näytön yläreunassa. Kun olet kaupungissa, se näyttää vasemmalta oikealle: väestön, kaupungin nimen, rakennustesi määrän kaupungissa, käteisesi ja päivämäärän.
+Otsikkopalkin pienten symbolien takana on myös piilotettuja painikkeita.

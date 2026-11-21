@@ -1,0 +1,1 @@
+Wenn Sie das Schiff ausgewählt haben, zeigt das Auswahlfenster, wie lange die Reparatur voraussichtlich dauert. Das hängt natürlich vom Zustand des Schiffes ab. Warten Sie nun, bis die Reparatur abgeschlossen ist. Dafür können Sie auch den Zeitraffer benutzen.

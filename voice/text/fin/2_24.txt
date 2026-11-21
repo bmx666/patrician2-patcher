@@ -1,0 +1,1 @@
+Tällä painikkeella voit vaihtaa merikartan ja kaupunkikartan välillä, mutta vain kun olet kaupungissa. Kätevää on se, että voit lähettää laivasi toiseen kaupunkiin poistumatta kaupungista, jossa olet.

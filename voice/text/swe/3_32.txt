@@ -1,0 +1,1 @@
+Indelningen hjälper dig bara att handla med stora mängder. Max-knappen tar hänsyn till hur mycket lastutrymme som finns kvar för de varor du ska köpa. Vid försäljning tar den hänsyn till hur mycket av varan som finns på skeppet. På så sätt kan du sälja allt på en gång.

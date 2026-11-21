@@ -1,0 +1,1 @@
+Raha sümbolil klõpsates avaneb statistikamenüü aken. Seda menüüd selles õpetuses siiski ei selgitata. Akna sulgemiseks klõpsa akna paremas alanurgas sulgemisnupul või tee paremklõps.

@@ -1,0 +1,3 @@
+Introduktionen er delt op i flere dele. I denne del lærer du at betjene spillets kontrolpanel.
+Bemærk:
+Du bør vælge en opløsning på mindst 1024 gange 768 til denne introduktion.

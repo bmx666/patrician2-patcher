@@ -1,0 +1,1 @@
+Kun laiva on valittuna, valintaikkuna näyttää, kuinka kauan korjauksen arvioidaan kestävän. Se riippuu tietysti laivan nykyisestä kunnosta. Odota nyt, kunnes korjaus on valmis. Voit käyttää siihen myös pikakelausta.

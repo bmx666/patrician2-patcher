@@ -1,0 +1,1 @@
+Med Eld skjuter ditt skepp automatiskt i fiendens riktning. Klicka på knappen nu. Då ser du hur en salva lämnar ditt skepp och landar i vattnet. Dessutom märker du att det tar en stund innan skeppets vapen är omladdade.

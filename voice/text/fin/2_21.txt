@@ -1,0 +1,2 @@
+Tällä oikealla napsautuksella annoit laivalle käskyn toimia, tässä tapauksessa purjehtia tiettyyn kohtaan merikartalla. Hetken kuluttua laiva tulee näkyviin merikartalle.
+Napsauta vielä kerran vasemmalla painikkeella tyhjää kohtaa merellä. Se peruu kaikki aiemmat valinnat.

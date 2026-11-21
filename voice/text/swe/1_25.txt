@@ -1,0 +1,2 @@
+Dessutom visas till exempel hur många skepp som ligger för ankar i en hamn och väntar på nya order.
+Skepp som ligger på varvet för reparation eller utbyggnad visas inte, eftersom de inte kan ta emot order.

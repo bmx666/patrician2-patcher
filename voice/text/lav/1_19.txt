@@ -1,0 +1,2 @@
+Aiz nākamās pogas slēpjas ziņu izvēlne. Šeit tiek glabātas visas saņemtās vēstules. Noklikšķiniet uz šīs pogas, un redzēsiet ziņu izvēlni, kurā sakārtotas dažādas ziņas. Noklikšķiniet uz kādas tēmas un tad uz ziņas, lai to izlasītu.
+Aizveriet ziņas tāpat kā visus citus logus – ar aizvēršanas pogu vai labo klikšķi.

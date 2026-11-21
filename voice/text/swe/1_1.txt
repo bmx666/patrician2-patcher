@@ -1,0 +1,3 @@
+Välkommen till Patrician 2, simuleringen av sjöhandel under Hansans tid.
+I denna introduktion lär du dig hur du går från enkel krämare till fjärrhandlare.
+Med de två knapparna till höger om denna text kan du gå framåt och bakåt mellan handledningens steg.

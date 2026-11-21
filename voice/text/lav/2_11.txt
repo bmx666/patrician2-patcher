@@ -1,0 +1,1 @@
+Kā redzat, ja kuģis joprojām ir atlasīts, karte tiek centrēta uz pilsētu, kurā kuģis atrodas. Tā kā kuģis stāv ostā uz enkura, šajā kartē to tieši neredz. Taču pie Lībekas redzams mazs karodziņš ar kuģi un skaitli. Tas ir jūsu kuģu skaits šajā pilsētā.

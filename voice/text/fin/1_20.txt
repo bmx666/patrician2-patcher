@@ -1,0 +1,1 @@
+Viestivalikon toiseksi viimeisellä painikkeella voit määrittää kirjearkiston niin, että kirjeet poistetaan myöhemmin automaattisesti. Voit myös poistaa kirjeen napsauttamalla sitä ja sitten viestivalikon oikealla puolella olevaa painiketta Poista.

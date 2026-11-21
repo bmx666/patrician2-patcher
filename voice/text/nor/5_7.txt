@@ -1,0 +1,2 @@
+I stedet for å klikke på Ild kan du også trykke på mellomromstasten eller tallet 0 på talltastaturet.
+Med knappen Entring gir du skipet ditt signal om å entre fiendens skip om mulig. Entringen begynner så snart skipene er nær hverandre.

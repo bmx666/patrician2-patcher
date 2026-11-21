@@ -1,0 +1,1 @@
+Valgvinduet viser nå informasjon om det valgte skipet. Under navnet ser du hvor skipet befinner seg. Sendes det et annet sted, ser du også målet her. Ved siden av står skipets last. Det øverste tallet viser lasteevnen, det midterste hvor mye plass varene tar. Det nederste tallet viser hvor mye plass mannskap og bevæpning krever.

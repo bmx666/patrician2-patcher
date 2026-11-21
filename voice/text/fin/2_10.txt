@@ -1,0 +1,2 @@
+Lähetetään nyt laiva toiseen kaupunkiin. Sitä varten sinun on valittava laiva. Napsauta nyt laivavalikon yläpuolella olevan painikepalkin painiketta Poistu kaupungista.
+Näkyviin tulee suuri merikartta.

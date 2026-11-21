@@ -1,0 +1,1 @@
+Seuraava painike on pikakelaus. Kun painat sitä, aika kuluu nopeammin. Sillä aikaa voit seurata kaikkia laivojasi yleiskartalla. Pikakelaus päättyy heti, kun painat hiiren painiketta tai jokin laivoistasi laskee ankkurin satamaan.

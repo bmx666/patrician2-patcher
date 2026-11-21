@@ -1,0 +1,1 @@
+Låt oss nu bygga ett bostadshus. Då behöver du veta att för varje arbetare i staden måste i genomsnitt fyra medborgare få plats i ett hus, eftersom varje arbetare också har en familj. Finns det inte tillräckligt med bostäder kan antalet arbetare inte öka.

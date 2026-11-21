@@ -1,0 +1,2 @@
+Sehen wir uns zuerst an, wie die Spieloberfläche aufgebaut ist. Sie besteht aus fünf Teilen.
+Hier werden die Städte und die Seekarte angezeigt. Zu Beginn eines Spiels starten Sie immer in Ihrer Heimatstadt, in diesem Fall Lübeck.

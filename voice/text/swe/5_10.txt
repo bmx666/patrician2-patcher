@@ -1,0 +1,1 @@
+Skeppets riktning ändrar du genom att högerklicka på en punkt i vattnet. Du kan också hålla ned höger musknapp och samtidigt röra musen. Pilen på vattnet visar då åt vilket håll skeppet seglar.

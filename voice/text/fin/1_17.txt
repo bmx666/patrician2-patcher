@@ -1,0 +1,2 @@
+Laivaluettelossa on muuten jokaisen laivan vasemmalla puolella siirtymispainike. Kun napsautat sitä, näkymä siirtyy laivan sijaintiin. Se voi olla toisessa kaupungissa tai merellä. Kokeile sitä tuodaksesi laivan Viking näkyviin.
+Sulje sitten laivaluettelo.

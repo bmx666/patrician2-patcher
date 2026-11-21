@@ -1,0 +1,1 @@
+Noklikšķinot uz bultiņas pa kreisi no kuģa nosaukuma, jūs atlasāt kuģi un centrējat to ekrānā, bet kuģu saraksts aizveras. To pašu var panākt, divreiz noklikšķinot uz kuģa nosaukuma. Izmēģiniet to dažas reizes un atkal atveriet kuģu sarakstu, noklikšķinot uz karodziņa pie Lībekas.

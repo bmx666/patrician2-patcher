@@ -1,0 +1,1 @@
+Bauen wir nun ein Wohnhaus. Dazu müssen Sie wissen, dass pro Arbeiter in der Stadt im Schnitt vier Bürger in einem Haus wohnen müssen, denn jeder Arbeiter hat auch eine Familie. Gibt es nicht genug Wohnraum, kann die Zahl der Arbeiter nicht steigen.

@@ -1,0 +1,1 @@
+Urvalsfönstret visar nu information om det valda skeppet. Under namnet ser du skeppets position. Om det skickas någon annanstans ser du även destinationen här. Bredvid visas skeppets last. Den översta siffran visar kapaciteten, den mittersta hur mycket plats varorna tar. Den nedersta siffran visar slutligen hur mycket plats besättning och beväpning kräver.

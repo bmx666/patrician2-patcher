@@ -1,3 +1,6 @@
 /target/
 /data/*.p2d
 .DS_Store
+/voice/wav/
+/voice/mp3/
+/voice/aac/

@@ -1,0 +1,1 @@
+Greifen wir den Gegner jetzt auf andere Weise an. Wenn Ihr Schiff ausgewählt ist, klicken Sie einfach mit der rechten Maustaste auf einen Gegner. Ihr Schiff greift ihn nun automatisch an und versenkt ihn. Achten Sie darauf, dass Entern nicht aktiviert ist, sonst würde Ihre Besatzung das feindliche Schiff entern.

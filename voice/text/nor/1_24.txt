@@ -1,0 +1,1 @@
+Tittellinjen har for øvrig endret seg. Siden du ikke lenger er i en by, vises fire skipsknapper. Med dem kan du bytte mellom skipene. Her skilles det mellom skip som ligger for anker, skip som seiler, og konvoier.

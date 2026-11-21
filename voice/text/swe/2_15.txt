@@ -1,0 +1,1 @@
+Urvalsfönstret visar nu skeppets ändrade status. I stället för ett ankare ser du nu ett skepp och Riga som destination. Även den beräknade restiden i dagar visas.

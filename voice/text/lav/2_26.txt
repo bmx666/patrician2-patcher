@@ -1,0 +1,2 @@
+Ar labo klikšķi jūs devāt kuģim jaunu galamērķi. Kuģis dosies uz šo galamērķi un gaidīs turpmākus rīkojumus.
+Lai mums nebūtu ilgi jāgaida, kamēr kuģis sasniedz galamērķi, aplūkosim paātrināšanu.

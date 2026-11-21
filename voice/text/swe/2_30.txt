@@ -1,0 +1,1 @@
+Klicka på varvet i stadens hamn för att gå in. På varvet kan du reparera dina skepp, beställa nya skepp, bygga ut ett skepp eller byta namn på ett skepp. Vi är bara intresserade av knappen Reparera skepp. Klicka på den.

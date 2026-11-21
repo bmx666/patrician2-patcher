@@ -1,0 +1,1 @@
+Til højre under bogen finder du byggetid og byggeomkostninger og nedenunder behovet for råvarer. Et nyt skib kræver mange råvarer. Du skal enten have dem på lager i dit kontor eller købe dem direkte af byen, hvis de findes. Den anslåede byggetid angives i dage.

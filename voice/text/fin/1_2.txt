@@ -1,0 +1,3 @@
+Opetus on jaettu useaan osaan. Tässä osassa opit käyttämään pelin ohjauspaneelia.
+Huomaa:
+Valitse tätä opetusta varten vähintään 1024 kertaa 768:n näyttötarkkuus.

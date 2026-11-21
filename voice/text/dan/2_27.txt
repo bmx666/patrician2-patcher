@@ -1,0 +1,1 @@
+Venstreklik på knappen Spol frem på knaplinjen. Først ser du et oversigtskort over hele havområdet og alle skibe, der er undervejs. Desuden går tiden meget hurtigt. Kortet bliver vist, indtil et skib har nået sit mål, eller du trykker på en museknap.

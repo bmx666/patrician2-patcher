@@ -1,0 +1,1 @@
+Sådana hamnkranar finns i varje stad. I handelsfönstret kan du handla mellan stad och skepp, mellan stad och kontor samt mellan skepp och kontor. Handelsriktningen väljer du med knapparna i urvalsfönstret.

@@ -1,0 +1,1 @@
+Dabar pasirinkimo langas rodo informaciją apie pasirinktą laivą. Po jo vardu matote, kur laivas yra. Jei jis kur nors siunčiamas, čia matysite ir kelionės tikslą. Šalia rodomas laivo krovinys. Viršutinis skaičius rodo talpą, vidurinis – kiek vietos užima prekės. Apatinis skaičius rodo, kiek vietos reikia įgulai ir ginklams.

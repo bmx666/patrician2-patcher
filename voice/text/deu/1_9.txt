@@ -1,0 +1,1 @@
+Wenn Sie auf das Geldsymbol klicken, öffnet sich ein Fenster mit dem Statistikmenü. Dieses Menü wird in der Einführung jedoch nicht erklärt. Um ein Fenster zu schließen, klicken Sie entweder auf den Schließen-Knopf unten rechts im Fenster oder klicken mit der rechten Maustaste.

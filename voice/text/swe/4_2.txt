@@ -1,0 +1,1 @@
+Varje stad består av funktionsbyggnader, bostäder och produktionsanläggningar. Funktionsbyggnader är byggnader där du kan utföra vissa saker. Hamnen och krogen känner du redan till. Andra byggnader är kyrkan och rådhuset. En hansestad som Lübeck har 12 sådana byggnader.

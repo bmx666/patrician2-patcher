@@ -1,0 +1,1 @@
+Spustelėjus pinigų simbolį, atsidaro langas su statistikos meniu. Tačiau šis meniu šiame mokyme neaiškinamas. Langą uždarysite spustelėję uždarymo mygtuką apatiniame dešiniajame lango kampe arba dešiniuoju pelės mygtuku.

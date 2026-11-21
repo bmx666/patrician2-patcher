@@ -1,0 +1,1 @@
+Mellan stad och skepp finns köp- och säljknapparna. På varje knapp står redan ett pris. Köp betyder att du köper. Sälj betyder att du säljer.

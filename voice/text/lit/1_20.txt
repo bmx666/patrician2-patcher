@@ -1,0 +1,1 @@
+Priešpaskutiniu laiškų meniu mygtuku galite nustatyti laiškų archyvą, kad laiškai po kurio laiko būtų ištrinami automatiškai. Laišką taip pat galite ištrinti jį spustelėję, o tada spustelėję mygtuką Ištrinti laiškų meniu dešinėje.

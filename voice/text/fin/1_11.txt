@@ -1,0 +1,2 @@
+Tässä näytetään tietoja valituista laivoista. Kokeillaan sitä nyt.
+Siirrä näkymä kaupungin satamaan. Näet siellä laivan nimeltä Viking. Se on sinun laivasi. Valitse se napsauttamalla.

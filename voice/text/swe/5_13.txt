@@ -1,0 +1,1 @@
+Låt oss nu anfalla fienden på ett annat sätt. När ditt skepp är valt högerklickar du helt enkelt på en fiende. Ditt skepp anfaller och sänker honom då automatiskt. Se till att Äntring inte är aktiverad, annars äntrar din besättning fiendeskeppet.

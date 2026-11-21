@@ -1,0 +1,2 @@
+Neste knapp på knapperaden er byggemenyen. Med den kan du oppføre bygninger i byer der du har et kontor. Kontoret er på en gang hjem, skrivestue og lager for en handelsmann.
+Kontor og byggemeny forklares i nest neste kapittel.

@@ -1,0 +1,1 @@
+Klõpsa rahvastiku sümbolil, et näha rahvastiku jaotust ja linna kodanike rahulolu. Kui rahulolu järel on näha nooled, näitavad need, kas kodanikud muutuvad rahulolevamaks või rahulolematumaks.

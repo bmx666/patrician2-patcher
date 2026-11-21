@@ -1,0 +1,2 @@
+Ja noklikšķināt uz pilsētas vārtu pogas, jūs atstājat pilsētu un nonākat jūras kartē.
+Pilsētas vietā tiek rādīta jūras karte. Fragmentu varat kā parasti pārvietot ar tastatūras bultiņām.

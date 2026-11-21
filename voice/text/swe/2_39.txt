@@ -1,0 +1,1 @@
+Välj knappen Byggbeställning på varvet. Välj nu ett skepp med hjälp av boken. I början av ett nytt spel finns tre skepp att välja mellan. Om varvet får beställningar regelbundet förbättras dess kvalitet och det kan erbjuda bättre skepp. Välj ett skepp och följ anvisningarna för bygget.

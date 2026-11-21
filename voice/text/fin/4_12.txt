@@ -1,0 +1,1 @@
+Valintaikkunassa näet nyt rakennuskustannukset, rakennusajan ja tarvittavat rakennusaineet. Aineet otetaan konttoristasi, jos niitä on siellä. Jos ei ole, ne ostetaan suoraan kaupungilta, ja kunkin ostohinta näytetään.

@@ -1,0 +1,2 @@
+Links neben jedem Schiff in der Schiffsliste gibt es übrigens einen Springen-Knopf. Klicken Sie darauf, springt die Ansicht zu dem Ort, an dem sich das Schiff befindet. Das kann eine andere Stadt oder die offene See sein. Probieren Sie es aus, um die Viking ins Blickfeld zu holen.
+Schließen Sie danach die Schiffsliste.

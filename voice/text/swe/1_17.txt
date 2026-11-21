@@ -1,0 +1,2 @@
+Till vänster om varje skepp i skeppslistan finns för övrigt en gå till-knapp. Klickar du på den kommer du till den plats där skeppet befinner sig. Det kan vara i en annan stad eller till sjöss. Pröva den för att få skeppet Viking i synfältet.
+Stäng sedan skeppslistan.

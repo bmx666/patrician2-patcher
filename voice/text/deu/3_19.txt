@@ -1,0 +1,1 @@
+Neben dem gerade gekauften Fisch steht eine Zahl. Das ist der Durchschnittspreis, den Sie pro Einheit bezahlt haben. Nun müssen Sie eine Stadt finden, die Ihnen mehr als diesen Preis zahlt. Nur dann machen Sie Gewinn.

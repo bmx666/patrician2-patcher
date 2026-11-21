@@ -1,0 +1,2 @@
+Beje, ginkluotė laivą daro ir stabilesnį.
+Dabar pažvelkime į denio funkcijas ir rodmenis. Pirmiausia rodomi greitis, būklė, įgula ir ginkluotės stiprumas. Šalia yra du mygtukai: Abordažas ir Ugnis.

@@ -1,0 +1,3 @@
+Velkommen til Patrician 2, simuleringen av sjøhandel i Hansaens tid.
+I denne innføringen lærer du hvordan du går fra enkel høker til fjernkjøpmann.
+Med de to knappene til høyre for denne teksten kan du gå frem og tilbake mellom stegene i opplæringen.

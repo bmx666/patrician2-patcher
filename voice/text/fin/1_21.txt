@@ -1,0 +1,2 @@
+Painikepalkin seuraava painike on rakennusvalikko. Sen avulla voit rakentaa rakennuksia kaupunkeihin, joissa sinulla on konttori. Konttori on kauppiaan koti, toimisto ja varasto samanaikaisesti.
+Konttoria ja rakennusvalikkoa käsitellään seuraavaa lukua seuraavassa luvussa.

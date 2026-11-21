@@ -1,0 +1,2 @@
+Statt auf Feuer zu klicken, können Sie auch die Leertaste oder die 0 auf dem Ziffernblock drücken.
+Mit dem Knopf Entern geben Sie Ihrem Schiff das Signal, das feindliche Schiff wenn möglich zu entern. Das Entern beginnt, sobald die Schiffe nahe beieinander sind.

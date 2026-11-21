@@ -1,0 +1,1 @@
+Selle all näed nimekirja kõigist pardal olevatest kaupadest. Pane tähele, et mõõtühikuid on kaks: last ja vaat. Üks last võrdub täpselt 10 vaadiga.

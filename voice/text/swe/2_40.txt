@@ -1,0 +1,1 @@
+Till höger under boken finns byggtid och byggkostnad, och därunder behovet av råvaror. Ett nytt skepp kräver mycket råvaror. Antingen måste du ha dem i lager i ditt kontor, eller så måste du köpa dem direkt från staden, om de finns. Den beräknade byggtiden anges i dagar.

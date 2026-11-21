@@ -1,0 +1,2 @@
+Dessuten viser visningen for eksempel hvor mange skip som ligger for anker i en havn og venter på nye ordrer.
+Skip som ligger på verftet for reparasjon eller utbygging, vises ikke, fordi de ikke kan få ordrer.

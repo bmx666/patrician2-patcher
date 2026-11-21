@@ -1,0 +1,3 @@
+Tere tulemast mängu Patrician 2, Hansa aja meresõidukaubanduse simulatsiooni.
+Selles sissejuhatuses õpid, kuidas tõusta lihtsast poodnikust kaugkaupmeheks.
+Selle teksti kõrval paremal asuva kahe nupuga saad liikuda õpetuse sammude vahel edasi ja tagasi.

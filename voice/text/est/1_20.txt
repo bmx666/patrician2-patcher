@@ -1,0 +1,1 @@
+Kirjade menüü eelviimase nupuga saad kirjaarhiivi seadistada nii, et kirjad hiljem automaatselt kustutatakse. Kirja saad kustutada ka nii, et klõpsad sellel ja seejärel kirjade menüü paremal asuval nupul Kustuta.

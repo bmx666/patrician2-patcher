@@ -1,0 +1,2 @@
+Muide, relvastus muudab laeva ka vastupidavamaks.
+Vaatame nüüd teki funktsioone ja näitajaid. Kõigepealt näidatakse kiirust, seisukorda, meeskonda ja relvastuse tugevust. Nende kõrval on kaks nuppu: Abordaaž ja Tuli.

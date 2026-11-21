@@ -1,0 +1,2 @@
+Auf der Seekarte werden alle Städte und Ihre Schiffe angezeigt. Auch Ereignisse auf See und fremde Schiffe sind hier zu sehen.
+Von dieser Karte aus betreten Sie jede Stadt, in der Sie Schiffe oder Gebäude haben. In dieser Einführung sind Sie nur in Lübeck vertreten.

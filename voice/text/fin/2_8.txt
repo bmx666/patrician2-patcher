@@ -1,0 +1,1 @@
+Siirrytään nyt laivavalikon muihin painikkeisiin. Ensimmäisenä ovat miehistön tiedot. Napsauta painiketta Miehistö. Se näyttää jälleen merimiesten määrän ja heidän viikkopalkkansa. Koska laiva on ankkurissa, voit erottaa merimiehiä ja kapteenin. Älä kuitenkaan tee sitä nyt.

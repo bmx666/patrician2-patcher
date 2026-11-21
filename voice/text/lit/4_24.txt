@@ -1,0 +1,1 @@
+Dabar pastatykime gyvenamąjį namą. Tam reikia žinoti, kad kiekvienam miesto darbininkui name turi tekti vidutiniškai keturi gyventojai, nes kiekvienas darbininkas turi ir šeimą. Jei būstų neužtenka, darbininkų skaičius negali augti.

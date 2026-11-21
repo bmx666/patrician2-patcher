@@ -1,0 +1,2 @@
+Seuraavan painikkeen takana on viestivalikko. Kaikki saamasi kirjeet arkistoidaan tänne. Napsauta painiketta, niin näet viestivalikon, johon on arkistoitu erilaisia viestejä. Napsauta ensin jotakin aihetta ja sitten viestiä lukeaksesi sen.
+Sulje viestit kuten kaikki muutkin ikkunat, sulkemispainikkeella tai hiiren oikealla painikkeella.

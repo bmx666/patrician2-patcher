@@ -1,0 +1,1 @@
+Klik nu på banneret for at se skibene nærmere. Som du ser, åbnes den velkendte skibsliste. Den viser alle skibe, der ligger for anker i byen. Klik nu på Lydia i listen, og læg mærke til, hvordan valgvinduet viser det.

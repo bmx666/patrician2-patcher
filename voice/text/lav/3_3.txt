@@ -1,0 +1,2 @@
+Bet vispirms daži pamatvārdi par tirdzniecību.
+Tirdzniecība balstās uz to, ka pilsētas ražo dažādas preces. Savukārt pilsoņiem un ražotnēm pilsētās vajag visas preces. Tāpēc katrai pilsētai jāieved noteiktas preces, lai tā plauktu.

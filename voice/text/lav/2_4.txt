@@ -1,0 +1,1 @@
+Rindā zemāk vispirms redzams kuģa ātrums mezglos. Protams, ostā tas ir 0. Blakus tam redzams kuģa stāvoklis, kas pašlaik ir aptuveni 100%, tātad kuģis ir nevainojamā stāvoklī.

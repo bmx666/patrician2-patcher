@@ -1,0 +1,1 @@
+Klicken Sie auf die Werft im Hafen, um sie zu betreten. In der Werft können Sie Schiffe reparieren, neue Schiffe in Auftrag geben, ein Schiff ausbauen oder umbenennen. Uns interessiert nur der Knopf Schiff reparieren. Bitte klicken Sie darauf.

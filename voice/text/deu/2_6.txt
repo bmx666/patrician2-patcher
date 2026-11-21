@@ -1,0 +1,1 @@
+Das große Fass zeigt die Ladung des Schiffes. Wie schon erwähnt, zeigt die obere Zahl rechts vom Fass den Laderaum. Darunter steht, wie viel Platz die Waren belegen. Die untere Zahl zeigt, wie viel Platz Besatzung und Waffen brauchen. Da noch keine Waren an Bord sind, steht die mittlere Zahl auf 0.

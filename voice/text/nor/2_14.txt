@@ -1,0 +1,1 @@
+Velg nå skipet Viking igjen, og lukk skipslisten. Skipet vises midt på skjermen. Dra nå sjøkartet til høyre og oppover til du ser byen Riga. Høyreklikk så på den røde knappen ved Riga for å gi skipet Riga som mål.

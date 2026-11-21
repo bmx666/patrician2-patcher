@@ -1,0 +1,1 @@
+La oss nå angripe fienden på en annen måte. Når du har valgt skipet ditt, høyreklikker du rett og slett på en fiende. Skipet ditt angriper og senker ham da automatisk. Pass på at Entring ikke er aktivert; ellers entrer mannskapet ditt fiendens skip.

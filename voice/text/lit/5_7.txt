@@ -1,0 +1,2 @@
+Užuot spustelėję Ugnis, galite paspausti ir tarpo klavišą arba skaičių 0 skaitmenų klaviatūroje.
+Mygtuku Abordažas duodate laivui signalą, jei įmanoma, įsiveržti į priešo laivą. Abordažas prasidės, kai tik laivai bus arti vienas kito.

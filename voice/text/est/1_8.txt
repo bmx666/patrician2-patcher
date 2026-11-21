@@ -1,0 +1,1 @@
+Hoonete sümbol muudab hoonete vaadet. Selle abil eristad oma hooneid teiste omadest.

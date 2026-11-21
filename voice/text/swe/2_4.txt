@@ -1,0 +1,1 @@
+På raden under visas först skeppets fart i knop. I hamnen visas förstås 0. Bredvid ser du skeppets skick, som just nu ligger kring 100%, skeppet är alltså i perfekt skick.

@@ -1,0 +1,1 @@
+Med denne knappen kan du bytte mellom sjøkartet og bykartet, men bare når du er i en by. Det fine med det er at du kan sende skipet ditt til en annen by uten å forlate byen du er i.

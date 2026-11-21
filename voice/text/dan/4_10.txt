@@ -1,0 +1,1 @@
+Åbn nu byggemenuen. Det er den fjerde knap på knaplinjen. Byggemenuen indeholder kontorbygning, byens bygninger, råvare- og forarbejdningsvirksomheder samt befæstninger. Klik én gang på hver kategori for at se, hvad der gemmer sig bag den.

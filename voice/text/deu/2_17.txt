@@ -1,0 +1,1 @@
+Sobald das Schiff auf der Seekarte ist, sehen Sie es übrigens auch auf der Minikarte. Ihre Schiffe sind blaue Quadrate, ausgewählte Schiffe blinken. Manchmal sind auch weiße Quadrate zu sehen. Das sind Schiffe der Konkurrenz, die sich in Sichtweite eines Ihrer Schiffe befinden.

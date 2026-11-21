@@ -1,0 +1,2 @@
+Starp citu, kuģu sarakstā pa kreisi no katra kuģa ir poga doties uz. Ja noklikšķināt uz tās, skats pāriet uz vietu, kur atrodas kuģis. Tā var būt cita pilsēta vai jūra. Izmēģiniet to, lai kuģis Viking nonāktu jūsu redzeslokā.
+Pēc tam aizveriet kuģu sarakstu.

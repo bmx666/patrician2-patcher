@@ -1,0 +1,2 @@
+Außerdem zeigt die Anzeige zum Beispiel, wie viele Schiffe in einem Hafen vor Anker liegen und auf neue Befehle warten.
+Schiffe, die zur Reparatur oder zum Ausbau in der Werft liegen, werden nicht angezeigt, da sie keine Befehle erhalten können.

@@ -1,0 +1,1 @@
+Wählen Sie in der Werft den Knopf Bauauftrag. Wählen Sie nun mit dem Buch ein Schiff aus. Zu Beginn eines Spiels stehen drei Schiffe zur Wahl. Erhält die Werft regelmäßig Aufträge, steigt ihre Qualität und sie kann bessere Schiffe anbieten. Wählen Sie ein Schiff und folgen Sie den Anweisungen zum Bau.

@@ -1,0 +1,1 @@
+Lad os nu gå videre til de andre knapper i skibsmenuen. Først er der oplysningerne om besætningen. Klik på knappen Besætning. Her ser du igen antallet af sømænd og deres ugentlige hyre. Da skibet ligger for anker, kan du afskedige sømænd og kaptajn. Det skal du dog ikke gøre nu.

@@ -1,0 +1,2 @@
+Noch ein Tipp zur Bedienung mit der Maus:
+Mit einem Linksklick wählen Sie Objekte wie Schiffe und Gebäude aus. Mit einem Rechtsklick schicken Sie das gewählte Schiff an einen anderen Ort. Außerdem schließt ein Rechtsklick ein Fenster in der Hauptansicht.

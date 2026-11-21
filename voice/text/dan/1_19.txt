@@ -1,0 +1,2 @@
+Bag den næste knap gemmer sig brevmenuen. Her arkiveres alle de breve, du har modtaget. Klik på knappen, så ser du brevmenuen, hvor forskellige meddelelser er arkiveret. Klik på et af emnerne og derefter på en meddelelse for at læse den.
+Luk brevene som alle andre vinduer med lukkeknappen eller et højreklik.

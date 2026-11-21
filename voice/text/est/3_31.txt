@@ -1,0 +1,1 @@
+Vaata nüüd kauplemisakna allosas olevat kolme nuppu. Siin saad määrata, mitu ühikut korraga kaubelda. Kas ostad 5 ühikut korraga või 5 korda ühe ühiku sama kaupa, pole lõppkokkuvõttes oluline. Koguhind on mõlemal juhul sama.

@@ -1,0 +1,2 @@
+Zem kapteiņa redzamas trīs vērtības: tirdzniecības prēmija, ceļojuma prēmija un jūras kaujas prēmija. Kapteinim ir šāda īpašība: jo vecāks viņš ir, jo pieredzējušāks.
+Pārējās kuģa izvēlnes pogas pirmajās spēles stundās nav īpaši svarīgas, un tās ir skaidrotas rokasgrāmatā.

@@ -1,0 +1,3 @@
+Opplæringen er delt inn i flere deler. I denne delen lærer du å bruke spillets kontrollpanel.
+Merk deg:
+Du bør velge en oppløsning på minst 1024 ganger 768 for denne opplæringen.

@@ -1,0 +1,1 @@
+Voit muuttaa laivan suuntaa napsauttamalla hiiren oikealla painikkeella kohtaa vedessä. Voit myös pitää hiiren oikeaa painiketta pohjassa ja liikuttaa samalla hiirtä. Veden päällä oleva nuoli näyttää silloin, mihin suuntaan laiva nyt purjehtii.

@@ -1,0 +1,1 @@
+Med bogen kan du bladre mellem alle skibe, der ligger for anker og trænger til reparation. Under bogen ser du reparationsprisen og nedenunder knappen, der bestiller reparationen. Klik på knappen, og forlad derefter skibsværftet.

@@ -1,0 +1,2 @@
+Wenn Sie auf den Stadttor-Knopf klicken, verlassen Sie die Stadt und gelangen auf die Seekarte.
+Statt der Stadt wird nun die Seekarte angezeigt. Den Ausschnitt verschieben Sie wie gewohnt mit den Pfeiltasten.

@@ -1,0 +1,1 @@
+Määrän valinta vain helpottaa kaupankäyntiä suurissa erissä. Maksimipainike ottaa ostettaessa huomioon, kuinka paljon lastitilaa on vielä vapaana. Myytäessä se ottaa huomioon, kuinka paljon tavaraa laivassa on. Näin voit myydä kaiken kerralla.

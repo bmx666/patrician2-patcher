@@ -1,0 +1,2 @@
+Sie sehen, welche Schiffe Ihnen gehören, wie sie heißen und wo sie sich gerade befinden. In dieser Einführung haben Sie nur ein Schiff, daher zeigt die Liste auch nur eines.
+Die Schiffsliste zeigt Name, Schiffstyp, Status und Standort, Ladung und den Wert der Waren an Bord. Mit dem Knopf unter der Liste wechseln Sie zur Anzeige von Besatzung und Bewaffnung.

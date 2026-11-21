@@ -1,0 +1,2 @@
+Järgmise nupu taga on kirjade menüü. Siia talletatakse kõik sinu saadud kirjad. Klõpsa sellel nupul ja näed kirjade menüüd, kuhu on talletatud mitmesuguseid teateid. Klõpsa ühel teemal ja seejärel teatel, et seda lugeda.
+Sulge kirjad nagu kõik teisedki aknad sulgemisnupu või paremklõpsuga.

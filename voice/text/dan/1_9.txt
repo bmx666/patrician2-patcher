@@ -1,0 +1,1 @@
+Klikker du på pengesymbolet, åbnes et vindue med statistikmenuen. Den menu bliver dog ikke forklaret i denne introduktion. Et vindue lukker du enten med lukkeknappen i vinduets nederste højre hjørne eller med et højreklik.

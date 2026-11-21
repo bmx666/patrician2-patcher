@@ -1,0 +1,1 @@
+Laeva nimest vasakul oleval noolel klõpsates valid laeva ja tood selle ekraani keskele, samal ajal laevade nimekiri suletakse. Teise võimalusena võid teha laeva nimel topeltklõpsu. Harjuta seda paar korda ja ava laevade nimekiri uuesti, klõpsates Lübecki kõrval oleval lipul.

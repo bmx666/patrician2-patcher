@@ -1,0 +1,1 @@
+Den stora tunnan visar skeppets last. Som redan nämnts visar den översta siffran till höger om tunnan skeppets kapacitet. Därunder anges hur mycket plats varorna tar. Den nedersta siffran visar hur mycket plats besättningen och vapnen kräver. Eftersom det inte finns några varor ombord nu står den mittersta siffran på 0.

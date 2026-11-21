@@ -1,0 +1,1 @@
+Der nächste Knopf ist der Zeitraffer. Wenn Sie ihn drücken, läuft die Zeit schneller ab. Dabei können Sie alle Ihre Schiffe auf der Gesamtkarte verfolgen. Der Zeitraffer endet, sobald Sie eine Maustaste drücken oder eines Ihrer Schiffe in einem Hafen vor Anker geht.

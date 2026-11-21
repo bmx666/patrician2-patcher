@@ -1,0 +1,2 @@
+Den næste knap på knaplinjen er byggemenuen. Med den kan du opføre bygninger i byer, hvor du har et kontor. Kontoret er på én gang en handelsmands hjem, kontor og lager.
+Kontor og byggemenu forklares i kapitlet efter det næste.

@@ -1,0 +1,2 @@
+Beje, kairėje kiekvieno laivo sąraše yra mygtukas eiti į. Jį spustelėję nukeliausite ten, kur yra laivas. Tai gali būti kitas miestas arba jūra. Išbandykite jį, kad laivas Viking atsidurtų jūsų akiratyje.
+Tada uždarykite laivų sąrašą.

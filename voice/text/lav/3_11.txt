@@ -1,0 +1,1 @@
+Šādi ostas celtņi ir katrā pilsētā. Tirdzniecības logā varat tirgoties starp pilsētu un kuģi, starp pilsētu un kantori, kā arī starp kuģi un kantori. Tirdzniecības virzienu izvēlaties ar pogām atlases logā.

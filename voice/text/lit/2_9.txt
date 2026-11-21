@@ -1,0 +1,2 @@
+Po kapitonu matote tris vertes: prekybos premiją, kelionės premiją ir jūrų mūšio premiją. Kapitonui galioja taisyklė: kuo jis vyresnis, tuo patyresnis.
+Kiti laivo meniu mygtukai pirmosiomis žaidimo valandomis nėra labai įdomūs ir aprašyti vadove.

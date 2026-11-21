@@ -1,0 +1,1 @@
+Napsauttamalla laivan nimen vasemmalla puolella olevaa nuolta valitset laivan ja keskität sen näytölle, ja samalla laivaluettelo sulkeutuu. Voit myös kaksoisnapsauttaa laivan nimeä. Harjoittele tätä muutaman kerran ja avaa laivaluettelo uudelleen napsauttamalla Lyypekin vieressä olevaa viiriä.

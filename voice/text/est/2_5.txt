@@ -1,0 +1,2 @@
+Paremal näed laeva meeskonda ja relvastust. Arv näitab pardal olevate meremeeste hulka. Täht tähendab, et pardal on kapten.
+Relvade sümboli all on suured ja väikesed kuulid. Siin saab näidata kõige rohkem viit kuuli, viis väikest kuuli võrduvad ühe suure kuuliga.

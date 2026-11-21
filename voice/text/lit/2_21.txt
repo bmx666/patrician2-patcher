@@ -1,0 +1,2 @@
+Šiuo dešiniuoju spustelėjimu davėte laivui įsakymą atlikti veiksmą, šiuo atveju – nuplaukti į vietą jūrlapyje. Po kurio laiko laivas pasirodo jūrlapyje.
+Dabar kairiuoju pelės mygtuku spustelėkite tuščią vietą jūroje. Taip atšauksite visus ankstesnius pasirinkimus.

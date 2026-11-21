@@ -1,0 +1,2 @@
+Paremklõpsuga andsid laevale uue sihtkoha. Laev sõidab sinna ja ootab edasisi käske.
+Et me ei peaks liiga kaua ootama, kuni laev kohale jõuab, vaatame nüüd kiirkerimist.

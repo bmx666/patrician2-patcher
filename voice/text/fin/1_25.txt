@@ -1,0 +1,2 @@
+Lisäksi näytöstä näkyy esimerkiksi, kuinka monta laivaa on ankkurissa satamassa odottamassa uusia käskyjä.
+Telakalla korjattavina tai laajennettavina olevia laivoja ei näytetä, koska niille ei voi antaa käskyjä.

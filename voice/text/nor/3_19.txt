@@ -1,0 +1,1 @@
+Ved siden av fisken du nettopp kjøpte, står et tall. Det er gjennomsnittsprisen du har betalt per enhet. Nå må du finne en by som betaler deg mer enn denne prisen. Bare da tjener du penger.

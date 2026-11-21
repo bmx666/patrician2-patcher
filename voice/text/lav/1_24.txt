@@ -1,0 +1,1 @@
+Starp citu, virsraksta josla ir mainījusies. Tā kā vairs neesat pilsētā, tiek rādītas četras kuģu pogas. Ar tām varat pārslēgties starp kuģiem. Turklāt tiek nošķirti noenkurotie kuģi, kuģi ceļā un konvoji.

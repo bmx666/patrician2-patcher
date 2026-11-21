@@ -1,0 +1,2 @@
+Dessuten vises her skipets fart i knop, skipets tilstand fra 0 til 100 % og mannskapet.
+Ved siden av står skipets våpenstyrke.

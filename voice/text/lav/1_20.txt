@@ -1,0 +1,1 @@
+Ar priekšpēdējo pogu ziņu izvēlnē varat iestatīt vēstuļu arhīvu tā, lai vēstules vēlāk tiktu dzēstas automātiski. Vēstuli varat dzēst arī, noklikšķinot uz tās un pēc tam uz pogas Dzēst ziņu izvēlnes labajā pusē.

@@ -1,0 +1,1 @@
+Die Hauptansicht zeigt nur einen Ausschnitt der Stadt. Bewegen Sie den Mauszeiger an den Bildschirmrand oder verwenden Sie die Pfeiltasten, um den Ausschnitt zu verschieben.

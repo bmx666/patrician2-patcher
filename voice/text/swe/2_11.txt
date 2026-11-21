@@ -1,0 +1,1 @@
+Som du ser centreras den stad där skeppet befinner sig, om skeppet fortfarande är valt. Eftersom skeppet ligger för ankar i hamnen syns det inte direkt på kartan. Men bredvid staden Lübeck ser du en liten vimpel med ett skepp och en siffra. Det är antalet skepp du har i staden.

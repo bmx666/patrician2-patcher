@@ -1,0 +1,2 @@
+Hur hög beläggningen i befintliga bostäder är får du veta genom att klicka på ett hus.
+Varje bostadshus har tre steg, av vilka du bara kan bygga det första. De högre stegen nås när allt fler människor flyttar in.

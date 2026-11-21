@@ -1,0 +1,1 @@
+Valikuaken näitab nüüd teavet valitud laeva kohta. Laeva nime all näed selle asukohta. Kui laev on teele saadetud, näed siin ka sihtkohta. Kõrval on laeva veos. Ülemine arv näitab kandevõimet, keskmine arv seda, kui palju ruumi kaubad võtavad. Alumine arv näitab, kui palju ruumi on vaja meeskonnale ja relvastusele.

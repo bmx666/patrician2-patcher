@@ -1,0 +1,2 @@
+Rechts davon sehen Sie Besatzung und Bewaffnung des Schiffes. Die Zahl gibt an, wie viele Matrosen an Bord sind. Der Stern bedeutet, dass ein Kapitän an Bord ist.
+Unter dem Waffensymbol werden große und kleine Kugeln angezeigt. Es passen höchstens fünf Kugeln hierher, fünf kleine Kugeln entsprechen einer großen.

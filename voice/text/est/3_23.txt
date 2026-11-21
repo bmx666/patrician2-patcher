@@ -1,0 +1,1 @@
+Siin näed ka, milliseid kaupu linnas veel toodetakse. Klõpsa nupul Toodang. Kuna kauplejad ei ole selles linnas veel ettevõtteid rajanud, näidatakse ainult linna enda ettevõtete toodangut.

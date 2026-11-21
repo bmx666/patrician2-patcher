@@ -1,0 +1,2 @@
+Uguns vietā varat nospiest arī tastatūras atstarpes taustiņu vai ciparu 0 ciparu blokā.
+Ar pogu Abordāža jūs dodat kuģim signālu, ja iespējams, abordēt ienaidnieka kuģi. Abordāža sāksies, tiklīdz kuģi būs tuvu viens otram.

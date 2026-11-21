@@ -1,0 +1,2 @@
+Turklāt šeit redzams kuģa ātrums mezglos, kuģa stāvoklis no 0 līdz 100% un apkalpe.
+Blakus tam – kuģa bruņojuma stiprums.

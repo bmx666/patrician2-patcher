@@ -1,0 +1,3 @@
+Õpetus on jaotatud mitmeks osaks. Selles osas õpid tundma mängu juhtpaneeli.
+Pane tähele:
+Selle õpetuse jaoks vali ekraanilahutuseks vähemalt 1024 korda 768.

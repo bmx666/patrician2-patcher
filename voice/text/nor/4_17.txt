@@ -1,0 +1,1 @@
+Bruk nå hurtigspolingen til verkstedet er ferdig. Klikk så på den ferdige bygningen. Først ser du hvor mange verksteder du eier i Lübeck. Ved arbeidersymbolet ser du hvor mange arbeidere som er der nå, og hvor mange som trengs i alt.

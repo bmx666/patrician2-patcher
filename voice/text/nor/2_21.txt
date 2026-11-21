@@ -1,0 +1,2 @@
+Med dette høyreklikket har du gitt skipet en ordre, i dette tilfellet å seile til en posisjon på sjøkartet. Etter en stund blir skipet synlig på sjøkartet.
+Venstreklikk igjen på et tomt sted på havet. Da oppheves alle tidligere valg.

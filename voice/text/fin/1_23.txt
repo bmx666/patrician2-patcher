@@ -1,0 +1,2 @@
+Merikartalla näkyvät kaikki kaupungit ja laivasi. Myös merellä sattuvat tapahtumat ja vieraat laivat näkyvät täällä.
+Tältä kartalta voit siirtyä mihin tahansa kaupunkiin, jossa sinulla on laivoja tai rakennuksia. Tässä opetuksessa olet edustettuna vain Lyypekissä.

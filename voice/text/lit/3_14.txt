@@ -1,0 +1,1 @@
+Tarp miesto ir laivo yra pirkimo ir pardavimo mygtukai. Ant kiekvieno mygtuko jau nurodyta kaina. Pirkti reiškia, kad perkate. Parduoti reiškia, kad parduodate.

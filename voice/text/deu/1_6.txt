@@ -1,0 +1,2 @@
+Die Titelleiste befindet sich am oberen Bildschirmrand. Wenn Sie in einer Stadt sind, zeigt sie von links nach rechts: Einwohnerzahl, Name der Stadt, die Anzahl Ihrer Gebäude in der Stadt, Ihr Bargeld und das Datum.
+Hinter den kleinen Symbolen der Titelleiste verbergen sich außerdem Knöpfe.

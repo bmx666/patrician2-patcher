@@ -1,0 +1,2 @@
+I stället för att klicka på Eld kan du också trycka på mellanslag eller på 0 på det numeriska tangentbordet.
+Med knappen Äntring ger du ditt skepp signal att äntra fiendeskeppet om möjligt. Äntringen börjar så snart skeppen är nära varandra.

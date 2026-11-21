@@ -1,0 +1,1 @@
+Die Richtung des Schiffes ändern Sie mit einem Rechtsklick auf eine Stelle im Wasser. Sie können auch die rechte Maustaste gedrückt halten und gleichzeitig die Maus bewegen. Der Pfeil auf dem Wasser zeigt Ihnen dann, in welche Richtung das Schiff nun segelt.

@@ -1,0 +1,2 @@
+Selle paremklõpsuga andsid laevale käsu teha midagi, antud juhul sõita merekaardil teatud kohta. Mõne aja pärast ilmub laev merekaardile.
+Tee veel kord vasakklõps tühjal kohal meres. See tühistab kõik varasemad valikud.

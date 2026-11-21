@@ -1,0 +1,1 @@
+Hovedvisningen viser kun et udsnit af byen. Flyt musemarkøren til kanten af skærmen, eller brug piletasterne for at flytte udsnittet.

@@ -1,0 +1,1 @@
+På linjen under vises først skipets fart i knop. I havnen står det naturligvis 0. Ved siden av ser du skipets tilstand, som nå er omtrent 100 %. Skipet er altså i perfekt stand.

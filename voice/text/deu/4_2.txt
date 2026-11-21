@@ -1,0 +1,1 @@
+Jede Stadt besteht aus Aktionsgebäuden, Wohnhäusern und Betrieben. In Aktionsgebäuden können Sie bestimmte Dinge erledigen. Hafen und Kneipe kennen Sie schon. Weitere sind die Kirche und das Rathaus. Eine Hansestadt wie Lübeck hat 12 solcher Gebäude.

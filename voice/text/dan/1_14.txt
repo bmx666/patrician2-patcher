@@ -1,0 +1,1 @@
+Nedenunder ser du en liste over alle varer om bord. Bemærk, at der er to måleenheder: læst og tønder. En læst svarer præcis til 10 tønder.

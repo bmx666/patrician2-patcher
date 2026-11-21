@@ -1,0 +1,2 @@
+Lisaks näitab see näiteks, mitu laeva seisab sadamas ankrus ja ootab uusi käske.
+Laevatehases remondis või täiendamisel olevaid laevu ei näidata, sest neile ei saa käske anda.

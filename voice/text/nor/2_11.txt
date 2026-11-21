@@ -1,0 +1,1 @@
+Som du ser, sentreres byen der skipet ligger, hvis skipet fortsatt er valgt. Siden skipet ligger for anker i havnen, ser du det ikke direkte på kartet. Men ved siden av Lübeck ser du et lite banner med et skip og et tall. Det er antall skip du har i byen.

@@ -1,0 +1,1 @@
+Slike havnekraner finnes i hver by. I handelsvinduet kan du handle mellom by og skip, mellom by og kontor og mellom skip og kontor. Retningen på handelen velger du med knappene i valgvinduet.

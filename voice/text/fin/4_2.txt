@@ -1,0 +1,1 @@
+Jokainen kaupunki koostuu toimintarakennuksista, asuintaloista ja tuotantolaitoksista. Toimintarakennuksissa voit tehdä tiettyjä asioita. Telakan ja kapakan tunnet jo. Muita ovat esimerkiksi kirkko ja raatihuone. Lyypekin kaltaisessa hansakaupungissa on 12 tällaista rakennusta.

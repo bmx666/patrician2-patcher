@@ -1,0 +1,1 @@
+Minikartan visar hela stadens område. Rektangeln symboliserar det visade utsnittet. Om du flyttar utsnittet flyttas även rektangeln.

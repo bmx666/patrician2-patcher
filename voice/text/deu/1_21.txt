@@ -1,0 +1,2 @@
+Der nächste Knopf der Knopfleiste ist das Baumenü. Damit errichten Sie Gebäude in Städten, in denen Sie ein Kontor besitzen. Das Kontor ist für einen Händler zugleich Wohnhaus, Büro und Lager.
+Kontor und Baumenü werden im übernächsten Kapitel erklärt.

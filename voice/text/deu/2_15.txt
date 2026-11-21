@@ -1,0 +1,1 @@
+Das Auswahlfenster zeigt nun den geänderten Status des Schiffes. Statt eines Ankers sehen Sie jetzt ein Schiff und Riga als Zielstadt. Außerdem wird die voraussichtliche Reisedauer in Tagen angezeigt.

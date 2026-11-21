@@ -1,0 +1,1 @@
+Käytä nyt pikakelausta, kunnes verstas on valmis. Napsauta sitten valmista rakennusta. Ensin näet, kuinka monta verstasta omistat Lyypekissä. Työläissymbolin vieressä näet, kuinka monta työläistä on tällä hetkellä käytettävissä ja kuinka monta tarvitaan enintään.

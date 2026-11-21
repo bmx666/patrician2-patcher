@@ -1,0 +1,1 @@
+Sehen Sie sich jetzt die drei Knöpfe unten im Handelsfenster an. Hier geben Sie an, wie viele Einheiten Sie handeln wollen. Ob Sie 5 Einheiten auf einmal kaufen oder fünfmal eine Einheit derselben Ware, ist am Ende gleich. Der Gesamtpreis ist in beiden Fällen derselbe.

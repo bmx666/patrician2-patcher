@@ -1,0 +1,1 @@
+Katso nyt kauppaikkunan alaosan kolmea painiketta. Niillä määrität, kuinka monta tuotetta haluat kerralla ostaa tai myydä. Ostatko 5 tuotetta kerralla vai saman tuotteen 5 kertaa yksitellen, sillä ei lopulta ole väliä. Kokonaishinta on kummassakin tapauksessa sama.

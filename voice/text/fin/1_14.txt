@@ -1,0 +1,1 @@
+Sen alla näet luettelon kaikista laivassa olevista tavaroista. Huomaa, että mittayksiköitä on kaksi: lästi ja tynnyri. Yksi lästi on tasan 10 tynnyriä.

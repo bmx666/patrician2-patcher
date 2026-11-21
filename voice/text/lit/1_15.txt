@@ -1,0 +1,2 @@
+Pažvelkime į mygtukų juostą ir peržiūrėkime mygtukus iš kairės į dešinę.
+Pirmasis mygtukas rodo laivų sąrašą. Spustelėkite jį.

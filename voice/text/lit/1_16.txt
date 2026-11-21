@@ -1,0 +1,2 @@
+Matote, kurie laivai priklauso jums, kaip jie vadinasi ir kur dabar yra. Šiame mokyme turite tik vieną laivą, todėl sąraše rodomas tik vienas laivas.
+Laivų sąrašas rodo vardą, laivo tipą, būseną ir vietą, krovinį ir laive esančių prekių vertę. Mygtuku po sąrašu galite perjungti į įgulos ir ginkluotės rodinį.

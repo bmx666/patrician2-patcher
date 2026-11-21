@@ -1,0 +1,1 @@
+Välj nu skeppet Viking igen och stäng skeppslistan. Skeppet visas mitt på skärmen. Dra nu sjökortet åt höger och uppåt tills staden Riga syns. Högerklicka sedan på den röda knappen vid Riga för att ge skeppet Riga som destination.

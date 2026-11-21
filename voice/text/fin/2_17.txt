@@ -1,0 +1,1 @@
+Heti kun laiva on merikartalla, näet sen muuten myös minikartalla. Sinun laivoillasi on siniset neliöt, valituilla vilkkuvat neliöt. Joskus näkyy myös valkoisia neliöitä. Ne ovat kilpailijoidesi laivoja, jotka ovat jonkin laivasi näköetäisyydellä.

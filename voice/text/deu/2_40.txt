@@ -1,0 +1,1 @@
+Rechts unter dem Buch finden Sie Bauzeit und Baukosten, darunter den Bedarf an Rohstoffen. Ein neues Schiff braucht viele Rohstoffe. Sie müssen sie entweder im Kontor auf Lager haben oder, falls vorhanden, direkt bei der Stadt kaufen. Die voraussichtliche Bauzeit wird in Tagen angegeben.

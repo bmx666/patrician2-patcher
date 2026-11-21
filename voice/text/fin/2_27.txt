@@ -1,0 +1,1 @@
+Napsauta painikepalkin painiketta Pikakelaus hiiren vasemmalla painikkeella. Ensin näet yleiskartan koko merialueesta sekä kaikista matkalla olevista laivoista. Lisäksi aika kuluu hyvin nopeasti. Kartta pysyy näkyvissä, kunnes jokin laiva on saapunut perille tai painat hiiren painiketta.

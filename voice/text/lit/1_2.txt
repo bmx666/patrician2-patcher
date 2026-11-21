@@ -1,0 +1,3 @@
+Mokymas suskirstytas į kelias dalis. Šioje dalyje išmoksite valdyti žaidimo pultą.
+Atkreipkite dėmesį:
+Šiam mokymui pasirinkite ne mažesnę nei 1024 iš 768 raišką.

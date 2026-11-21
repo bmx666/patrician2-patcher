@@ -1,0 +1,3 @@
+Tervetuloa pelaamaan Patrician 2:ta, meriliikenteen kauppasimulaatiota Hansan ajalta.
+Tässä johdannossa opit, miten tavallisesta puotilaisesta tulee kaukokauppias.
+Tämän tekstin oikealla puolella olevilla kahdella painikkeella voit siirtyä opetuksen vaiheissa eteen- ja taaksepäin.

@@ -1,0 +1,1 @@
+Mit diesem Knopf wechseln Sie zwischen Seekarte und Stadtkarte, allerdings nur, wenn Sie in einer Stadt sind. Das Schöne daran ist, dass Sie Ihr Schiff in eine andere Stadt schicken können, ohne die Stadt zu verlassen, in der Sie sich befinden.

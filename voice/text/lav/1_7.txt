@@ -1,0 +1,1 @@
+Noklikšķiniet uz iedzīvotāju simbola, lai redzētu iedzīvotāju sadalījumu un šīs pilsētas pilsoņu apmierinātību. Ja aiz apmierinātības redzamas bultiņas, tās rāda, vai pilsoņi kļūst vairāk vai mazāk apmierināti.

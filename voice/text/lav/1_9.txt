@@ -1,0 +1,1 @@
+Ja noklikšķināt uz naudas simbola, atveras logs ar statistikas izvēlni. Taču šajā apmācībā šī izvēlne netiks skaidrota. Lai aizvērtu logu, noklikšķiniet uz aizvēršanas pogas loga apakšējā labajā stūrī vai noklikšķiniet ar labo peles pogu.

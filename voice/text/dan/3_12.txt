@@ -1,0 +1,1 @@
+Menuen vises kun, hvis du har et kontor i byen, og et skib er valgt. Kun da kan du vælge mellem flere handelsmuligheder.

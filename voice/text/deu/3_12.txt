@@ -1,0 +1,1 @@
+Dieses Menü erscheint nur, wenn Sie in der Stadt ein Kontor haben und ein Schiff ausgewählt ist. Nur dann haben Sie die Wahl zwischen verschiedenen Handelsmöglichkeiten.

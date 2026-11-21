@@ -1,0 +1,1 @@
+Med knappen Forbrug kan du få vist, hvilke varer og hvor meget borgerne og virksomhederne i byen forbruger hver uge. Ud fra disse mængder kan du anslå, hvor længe varerne rækker.

@@ -1,0 +1,1 @@
+Mygtukas Suvartojimas parodo, kokias prekes ir kiek jų kas savaitę suvartoja miestiečiai ir miesto įmonės. Pagal šiuos kiekius galite įvertinti, kiek laiko prekių užteks.

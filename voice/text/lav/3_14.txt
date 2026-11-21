@@ -1,0 +1,1 @@
+Starp pilsētu un kuģi ir pirkšanas un pārdošanas pogas. Uz katras pogas jau ir cena. Pirkt nozīmē, ka jūs pērkat. Pārdot nozīmē, ka jūs pārdodat.

@@ -1,0 +1,2 @@
+Oikealla näet laivan miehistön ja aseistuksen. Luku kertoo, kuinka monta merimiestä laivassa on. Tähti tarkoittaa, että laivassa on kapteeni.
+Asesymbolin alla näkyy isoja ja pieniä palloja. Palloja voi näkyä enintään viisi, ja viisi pientä palloa vastaa yhtä isoa.

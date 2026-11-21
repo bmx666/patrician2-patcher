@@ -1,0 +1,2 @@
+Kitas mygtukų juostos mygtukas – statybų meniu. Juo galite statyti pastatus miestuose, kuriuose turite kontorą. Kontora kartu yra prekiautojo namai, raštinė ir sandėlis.
+Kontora ir statybų meniu bus paaiškinti skyriuje po kito.

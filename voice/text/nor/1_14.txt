@@ -1,0 +1,1 @@
+Under dette ser du en liste over alle varene om bord. Merk at det finnes to måleenheter: lest og tønner. Én lest tilsvarer nøyaktig 10 tønner.

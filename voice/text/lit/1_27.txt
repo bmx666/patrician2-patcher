@@ -1,0 +1,2 @@
+Dar vienas patarimas apie pelę:
+Kairiuoju pelės mygtuku pasirenkate objektus, pavyzdžiui, laivus ir pastatus. Dešiniuoju pelės mygtuku pasirinktą laivą siunčiate į kitą vietą. Be to, dešiniuoju mygtuku uždaromi langai pagrindiniame vaizde.

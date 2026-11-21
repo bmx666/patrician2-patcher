@@ -1,0 +1,2 @@
+Übrigens wird ein Schiff durch Bewaffnung auch stabiler.
+Sehen wir uns nun die Funktionen und Anzeigen des Decks an. Zuerst werden Geschwindigkeit, Zustand, Besatzung und Kampfstärke angezeigt. Daneben liegen zwei Knöpfe: Entern und Feuer.

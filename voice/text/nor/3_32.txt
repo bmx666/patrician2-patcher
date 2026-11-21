@@ -1,0 +1,1 @@
+Mengdevalget skal bare gjøre det lettere å handle med store mengder. Maks-knappen tar hensyn til hvor mye lasteplass som er ledig for varene du kjøper. Ved salg tar den hensyn til hvor mange varer som er om bord. Slik kan du selge alt på en gang.

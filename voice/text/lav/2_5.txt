@@ -1,0 +1,2 @@
+Pa labi redzama kuģa apkalpe un bruņojums. Skaitlis norāda jūrnieku skaitu uz kuģa. Zvaigzne nozīmē, ka uz kuģa ir kapteinis.
+Zem ieroču simbola redzamas lielas un mazas lodes. Šeit var attēlot ne vairāk kā piecas lodes; piecas mazas lodes ir viena liela lode.

@@ -1,0 +1,2 @@
+Unter dem Kapitän sehen Sie drei Werte: Handelsbonus, Reisebonus und Seekampfbonus. Für einen Kapitän gilt: Je älter er ist, desto erfahrener ist er.
+Die übrigen Knöpfe im Schiffsmenü sind in den ersten Spielstunden nicht so wichtig und werden im Handbuch erklärt.

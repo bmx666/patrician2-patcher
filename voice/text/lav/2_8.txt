@@ -1,0 +1,1 @@
+Tagad pievērsīsimies pārējām kuģa izvēlnes pogām. Vispirms ir informācija par apkalpi. Noklikšķiniet uz pogas Apkalpe. Tā vēlreiz rāda jūrnieku skaitu un viņu nedēļas algu. Tā kā kuģis stāv uz enkura, jūs varat atlaist jūrniekus un kapteini. Tomēr tagad to nedariet.

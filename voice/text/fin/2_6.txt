@@ -1,0 +1,1 @@
+Iso tynnyri näyttää laivan lastin. Kuten jo mainittiin, tynnyrin oikealla puolella oleva ylin luku kertoo laivan lastitilan. Sen alla näkyy, kuinka paljon tilaa tavarat vievät. Alin luku kertoo, kuinka paljon tilaa miehistö ja aseet tarvitsevat. Koska laivassa ei nyt ole tavaroita, keskimmäinen luku on 0.

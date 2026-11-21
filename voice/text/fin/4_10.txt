@@ -1,0 +1,1 @@
+Avaa nyt rakennusvalikko. Se on painikepalkin neljäs painike. Rakennusvalikossa ovat konttori, kaupungin rakennukset, raaka-aine- ja jalostuslaitokset sekä linnoitukset. Napsauta kutakin luokkaa kerran nähdäksesi, mitä sen takana on.

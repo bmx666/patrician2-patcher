@@ -9,7 +9,9 @@ widescreen support, fixes bugs in the original game, brings small quality-of-lif
 makes the game run smoothly on Apple Silicon Macs under Wine.
 
 This repository contains only the patcher. It holds no original game files, texts or images:
-the patch is a binary difference that is applied to your own copy of the game.
+the patch is a binary difference that is applied to your own copy of the game. The only texts
+here are this project's translations of the tutorial speech in [`voice/text/`](voice/), for people
+who want to [voice the tutorial themselves](#make-your-own-voice-over).
 
 ## Installation
 
@@ -124,6 +126,16 @@ File formats the game can play:
   the game computes a wrong length for the speech. Decoded by `Win32/Aacdec.asi`.
 - **MP3**: MPEG-1 Layer III, 128 kbps CBR, 44.1 kHz, mono, without ID3 or Xing headers: the same
   format as the original tutorial files. Decoded by `Win32/Mp3dec.asi`.
+
+### Make your own voice-over
+
+The spoken text of every tutorial screen is in [`voice/text/<code>/`](voice/text/), one file per
+screen (`1_1.txt` → `Musik/tutorial_<code>/1_1<suffix>.mp3`). Record it yourself or use a TTS engine.
+[`voice/README.md`](voice/README.md) explains:
+
+- macOS: generate the whole language with the system voices (`voice/say.sh`) or Siri voices
+  (`voice/siri.sh`), then copy the output folder into `Musik/` as `tutorial_<code>`;
+- converting any audio file to a game-ready MP3 or AAC with ffmpeg.
 
 ## New Features
 
@@ -292,6 +304,7 @@ patrician2-patcher/
 ├── build.rs           embeds data/patrician2.p2d
 ├── .cargo/config.toml static C runtime for MSVC builds
 ├── data/              patrician2.p2d (generated, not committed)
+├── voice/             tutorial speech texts and TTS scripts (not used by the patcher)
 └── src/
     ├── main.rs        apply / restore
     ├── make.rs        `make` command

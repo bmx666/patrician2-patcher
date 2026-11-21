@@ -1,0 +1,2 @@
+Lisäksi tässä näytetään laivan nopeus solmuina, laivan kunto välillä 0-100% sekä miehistö.
+Sen vieressä näkyy laivan aseistuksen vahvuus.

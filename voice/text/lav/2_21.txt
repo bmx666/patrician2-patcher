@@ -1,0 +1,2 @@
+Ar šo labo klikšķi jūs devāt kuģim rīkojumu veikt darbību, šajā gadījumā – doties uz noteiktu vietu jūras kartē. Pēc brīža kuģis kļūst redzams jūras kartē.
+Vēlreiz noklikšķiniet ar kreiso pogu uz tukšas vietas jūrā. Tas atceļ visas iepriekšējās atlases.

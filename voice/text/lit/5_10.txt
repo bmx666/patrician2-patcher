@@ -1,0 +1,1 @@
+Laivo kryptį pakeisite dešiniuoju pelės mygtuku spustelėję vietą vandenyje. Taip pat galite laikyti nuspaudę dešinįjį pelės mygtuką ir kartu judinti pelę. Rodyklė vandenyje parodys, kuria kryptimi dabar plaukia laivas.

@@ -1,0 +1,1 @@
+Minikartta näyttää koko kaupungin alueen. Suorakulmio kuvaa näkyvissä olevaa aluetta. Kun siirrät näkymää, myös suorakulmio liikkuu.

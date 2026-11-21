@@ -1,0 +1,1 @@
+Dabar nuveskite pelę ant vieno iš šių sklypų. Matomam sklypui rasti galite naudoti ir klaviatūros rodykles. Kai pelės žymeklis atsiduria virš sklypo, dirbtuvės nušvinta. Dabar spustelėkite kairiuoju pelės mygtuku.

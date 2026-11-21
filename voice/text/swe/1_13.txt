@@ -1,0 +1,2 @@
+Dessutom visas här skeppets fart i knop, skeppets skick från 0 till 100% och besättningen.
+Bredvid det visas skeppets vapenstyrka.

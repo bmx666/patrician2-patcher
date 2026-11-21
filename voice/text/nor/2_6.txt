@@ -1,0 +1,1 @@
+Den store tønnen viser skipets last. Som nevnt viser det øverste tallet til høyre for tønnen skipets lasteevne. Under det står hvor mye plass varene tar. Det nederste tallet viser hvor mye plass mannskapet og våpnene trenger. Siden det ikke er noen varer om bord nå, står det midterste tallet på 0.

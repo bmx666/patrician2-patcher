@@ -1,0 +1,1 @@
+Kai pasirinksite laivą, pasirinkimo langas parodys, kiek laiko numatoma taisyti. Žinoma, tai priklauso nuo dabartinės laivo būklės. Dabar palaukite, kol taisymas baigsis. Tam galite pasinaudoti ir pagreitinimu.

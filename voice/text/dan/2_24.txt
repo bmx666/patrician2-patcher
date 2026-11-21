@@ -1,0 +1,1 @@
+Med denne knap kan du skifte mellem søkortet og bykortet, men kun når du er i en by. Det smarte ved det er, at du kan sende dit skib til en anden by uden at forlade den by, du er i.

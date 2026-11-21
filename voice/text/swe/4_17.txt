@@ -1,0 +1,1 @@
+Aktivera nu snabbspolningen tills verkstaden är färdig. Klicka sedan på den färdiga byggnaden. Först visas hur många verkstäder du äger i Lübeck. Bredvid arbetarsymbolen ser du hur många arbetare som finns just nu och det största antal som behövs.

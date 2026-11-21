@@ -1,0 +1,1 @@
+Når du har valgt skipet, viser valgvinduet hvor lenge reparasjonen anslagsvis tar. Det avhenger naturligvis av skipets nåværende tilstand. Vent nå til reparasjonen er ferdig. Du kan også bruke hurtigspolingen til det.

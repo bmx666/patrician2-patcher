@@ -1,0 +1,1 @@
+See menüü ilmub ainult siis, kui sul on linnas kontor ja laev on valitud, ainult siis on sul valida mitme kauplemisvõimaluse vahel.

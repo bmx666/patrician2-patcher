@@ -1,0 +1,1 @@
+Du ændrer skibets kurs ved at højreklikke på et sted i vandet. Du kan også holde højre museknap nede og samtidig bevæge musen. Pilen på vandet viser dig så, i hvilken retning skibet nu sejler.

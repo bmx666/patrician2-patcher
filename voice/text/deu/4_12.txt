@@ -1,0 +1,1 @@
+Im Auswahlfenster sehen Sie nun Baukosten, Bauzeit und die nötigen Baustoffe. Diese werden aus Ihrem Kontor genommen, wenn sie dort vorhanden sind. Wenn nicht, werden sie direkt bei der Stadt gekauft, und die jeweiligen Kaufpreise werden angezeigt.

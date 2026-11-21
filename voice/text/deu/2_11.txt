@@ -1,0 +1,1 @@
+Wie Sie sehen, wird die Stadt, in der das ausgewählte Schiff liegt, in die Mitte gerückt. Da das Schiff im Hafen ankert, ist es auf der Karte nicht direkt zu sehen. Neben Lübeck sehen Sie aber ein kleines Banner mit einem Schiff und einer Zahl. Das ist die Zahl Ihrer Schiffe in dieser Stadt.

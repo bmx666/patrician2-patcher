@@ -1,0 +1,1 @@
+Rakennussymboli vaihtaa rakennusten näkymää. Sen avulla erotat omat rakennuksesi muista.

@@ -1,0 +1,2 @@
+Antraštės juosta yra ekrano viršuje. Kai esate mieste, ji iš kairės į dešinę rodo: gyventojų skaičių, miesto pavadinimą, jūsų pastatų skaičių mieste, jūsų grynuosius ir datą.
+Po mažais antraštės juostos simboliais taip pat slepiasi mygtukai.

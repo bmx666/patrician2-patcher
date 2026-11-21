@@ -1,0 +1,2 @@
+Toks automatinis valdymas labai praktiškas kovojant su keliais laivais.
+Prieš imdamiesi trečiojo laivo, šiek tiek pasipraktikuokite. Mat kai tik paskutinis laivas nugalimas, jūrų mūšis baigiasi ir vaizdas vėl persijungia į jūrlapį.

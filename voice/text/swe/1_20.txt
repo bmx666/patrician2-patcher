@@ -1,0 +1,1 @@
+Med den näst sista knappen i nyhetsmenyn kan du ställa in brevarkivet så att brev raderas automatiskt efter en tid. Du kan också radera ett brev genom att klicka på det och sedan på knappen radera till höger i nyhetsmenyn.

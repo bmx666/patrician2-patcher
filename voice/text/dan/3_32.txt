@@ -1,0 +1,1 @@
+Opdelingen skal blot gøre det lettere for dig at handle med store mængder. Max-knappen tager højde for, hvor meget lastrum der stadig er til de varer, du vil købe. Ved salg tager den højde for, hvor mange varer der er på skibet. Så kan du sælge alt på én gang.

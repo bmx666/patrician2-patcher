@@ -1,0 +1,2 @@
+Bak neste knapp skjuler brevmenyen seg. Alle brevene du har fått, er arkivert her. Klikk på knappen, så ser du brevmenyen, der ulike meldinger er arkivert. Klikk på et av emnene og deretter på en melding for å lese den.
+Lukk meldingene som alle andre vinduer, med lukkeknappen eller et høyreklikk.

@@ -1,0 +1,1 @@
+Dabar pasirinkite prekybą tarp miesto ir laivo. Kairėje matote miesto turimas prekes, o dešinėje – laive esančias prekes. Kadangi ką tik pradėjome, jų nėra.

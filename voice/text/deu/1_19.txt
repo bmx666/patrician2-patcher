@@ -1,0 +1,2 @@
+Hinter dem nächsten Knopf verbirgt sich das Nachrichtenmenü. Hier werden alle Briefe abgelegt, die Sie erhalten haben. Klicken Sie auf den Knopf, und Sie sehen das Nachrichtenmenü mit verschiedenen Nachrichten. Klicken Sie auf ein Thema und dann auf eine Nachricht, um sie zu lesen.
+Schließen Sie die Nachrichten wie alle anderen Fenster mit dem Schließen-Knopf oder einem Rechtsklick.

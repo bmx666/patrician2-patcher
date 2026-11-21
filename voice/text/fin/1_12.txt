@@ -1,0 +1,1 @@
+Valintaikkuna näyttää nyt tietoja valitusta laivasta. Laivan nimen alla näet sen sijainnin. Jos laiva lähetetään muualle, näet täällä myös määränpään. Sen vieressä on laivan lasti. Ylin luku kertoo lastitilan, keskimmäinen luku sen, kuinka paljon tilaa tavarat vievät. Alin luku kertoo, kuinka paljon tilaa miehistö ja aseistus tarvitsevat.

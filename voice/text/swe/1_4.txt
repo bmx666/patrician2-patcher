@@ -1,0 +1,1 @@
+Huvudvyn visar bara ett utsnitt av staden. Flytta muspekaren till skärmens kant eller använd piltangenterna för att flytta utsnittet.

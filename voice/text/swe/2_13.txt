@@ -1,0 +1,1 @@
+Genom att klicka på pilen till vänster om skeppets namn väljer du skeppet och centrerar det på skärmen medan skeppslistan stängs. Du kan också dubbelklicka på skeppets namn. Öva detta några gånger och öppna skeppslistan igen genom att klicka på vimpeln vid staden Lübeck.

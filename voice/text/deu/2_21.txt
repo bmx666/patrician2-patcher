@@ -1,0 +1,2 @@
+Mit diesem Rechtsklick haben Sie dem Schiff einen Befehl gegeben, in diesem Fall, zu einem Punkt auf der Seekarte zu segeln. Nach einer Weile wird das Schiff auf der Seekarte sichtbar.
+Klicken Sie nun mit der linken Maustaste auf eine freie Stelle im Meer. Damit heben Sie jede Auswahl auf.

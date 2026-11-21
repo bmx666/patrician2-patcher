@@ -1,0 +1,2 @@
+Šeit tiek rādīta informācija par atlasītajiem kuģiem. Izmēģināsim to.
+Pārvietojiet fragmentu uz pilsētas ostu. Tur redzēsiet kuģi ar nosaukumu Viking. Tas ir jūsu kuģis. Noklikšķiniet uz tā, lai to atlasītu.

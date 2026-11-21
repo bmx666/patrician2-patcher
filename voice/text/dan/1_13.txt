@@ -1,0 +1,2 @@
+Desuden vises her skibets fart i knob, skibets tilstand fra 0 til 100% og besætningen.
+Ved siden af står skibets bevæbning.

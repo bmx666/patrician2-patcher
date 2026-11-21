@@ -1,0 +1,1 @@
+Kuģa virzienu varat mainīt, ar labo pogu noklikšķinot uz kādas vietas ūdenī. Varat arī nospiest labo peles pogu, turēt to un vienlaikus kustināt peli. Bultiņa uz ūdens tad parādīs, kādā virzienā kuģis tagad kuģo.

@@ -1,0 +1,1 @@
+Dabar atverkite statybų meniu. Tai ketvirtasis mygtukų juostos mygtukas. Statybų meniu yra kontora, miesto pastatai, žaliavų ir perdirbimo įmonės bei įtvirtinimai. Spustelėkite kiekvieną kategoriją po kartą ir pamatysite, kas joje slypi.

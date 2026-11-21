@@ -1,0 +1,1 @@
+Lielā muca rāda kuģa kravu. Kā jau minēts, augšējais skaitlis pa labi no mucas rāda kuģa kravnesību. Zem tā norādīts, cik vietas aizņem preces. Apakšējais skaitlis rāda, cik vietas vajag apkalpei un ieročiem. Tā kā uz kuģa pašlaik nav preču, vidējais skaitlis ir 0.

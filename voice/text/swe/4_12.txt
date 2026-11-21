@@ -1,0 +1,1 @@
+I urvalsfönstret ser du nu byggkostnad, byggtid och de byggmaterial som behövs. Materialet tas från ditt kontor om det finns där. Annars köps det direkt från staden, och inköpspriserna visas.

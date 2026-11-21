@@ -1,0 +1,1 @@
+Som du ser, centreres den by, hvor skibet ligger, når skibet stadig er valgt. Da skibet ligger for anker i havnen, kan du ikke se det direkte på kortet. Men ved siden af Lübeck ser du et lille banner med et skib og et tal. Det er antallet af skibe, du har i byen.

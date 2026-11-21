@@ -1,0 +1,1 @@
+Vælg nu handel mellem by og skib. Til venstre ser du de varer, byen har, og til højre varerne på skibet. Da vi lige er begyndt, er der ingen.

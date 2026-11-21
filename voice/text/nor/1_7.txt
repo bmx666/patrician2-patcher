@@ -1,0 +1,1 @@
+Klikk på befolkningssymbolet for å se hvordan befolkningen fordeler seg, og hvor tilfredse borgerne i byen er. Vises det piler etter tilfredsheten, viser de om borgerne blir mer eller mindre tilfredse.

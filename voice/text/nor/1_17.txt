@@ -1,0 +1,2 @@
+Til venstre for hvert skip i skipslisten finnes for øvrig en gå til-knapp. Klikker du på den, går visningen dit skipet befinner seg. Det kan være i en annen by eller til sjøs. Prøv det for å få skipet Viking inn i synsfeltet.
+Lukk deretter skipslisten.

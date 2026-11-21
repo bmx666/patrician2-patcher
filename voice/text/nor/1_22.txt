@@ -1,0 +1,2 @@
+Klikker du på byportknappen, forlater du byen og havner på sjøkartet.
+I stedet for byen vises nå sjøkartet. Du kan som vanlig flytte utsnittet med piltastene.

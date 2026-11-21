@@ -1,0 +1,2 @@
+Veel üks nõuanne hiire kasutamiseks:
+Vasakklõpsuga valid objekte, näiteks laevu ja hooneid. Paremklõpsuga saadad valitud laeva teise kohta. Lisaks sulgeb paremklõps põhivaates avatud akna.

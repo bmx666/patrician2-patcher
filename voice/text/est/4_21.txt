@@ -1,0 +1,1 @@
+Pane tähele, et ühe ja sama kauba tootmiskulu ei ole igas linnas ühesugune. Mõnes linnas saab kaupu toota eriti soodsalt, teistes vähem soodsalt ja mõnes üldse mitte. Madala toodanguga linnades on tootmiskulud vastavalt kõrgemad. Vaata palun kaasasolevat kaarti.

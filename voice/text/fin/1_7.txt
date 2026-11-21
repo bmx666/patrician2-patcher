@@ -1,0 +1,1 @@
+Napsauta väestösymbolia nähdäksesi kaupungin väestön jakauman ja porvarien tyytyväisyyden. Jos tyytyväisyyden perässä näkyy nuolia, ne kertovat, ovatko porvarit tulossa tyytyväisemmiksi vai tyytymättömämmiksi.

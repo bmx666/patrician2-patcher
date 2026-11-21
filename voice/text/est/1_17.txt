@@ -1,0 +1,2 @@
+Muide, nimekirjas on iga laeva vasakul mine juurde nupp. Sellel klõpsates liigub vaade kohta, kus laev asub. See võib olla teises linnas või merel. Proovi seda, et tuua laev Viking oma vaatevälja.
+Seejärel sulge laevade nimekiri.

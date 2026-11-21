@@ -1,0 +1,1 @@
+Vali nüüd uuesti laev Viking ja sulge laevade nimekiri. Laev kuvatakse ekraani keskel. Nihuta nüüd merekaarti paremale ja üles, kuni ilmub Riia linn. Tee Riia juures oleval punasel nupul paremklõps, et anda laevale sihtkohaks Riia.

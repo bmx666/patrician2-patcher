@@ -1,0 +1,2 @@
+Et skip blir for øvrig også mer stabilt av bevæpning.
+La oss nå se på dekkets funksjoner og visninger. Først vises fart, tilstand, mannskap og våpenstyrke. Ved siden av er det to knapper: Entring og Ild

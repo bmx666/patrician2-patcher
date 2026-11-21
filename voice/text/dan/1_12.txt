@@ -1,0 +1,1 @@
+Valgvinduet viser nu oplysninger om det valgte skib. Under navnet ser du, hvor skibet befinder sig. Hvis det er sendt et andet sted hen, ser du også målet her. Ved siden af står skibets last. Det øverste tal viser lasteevnen, det midterste tal, hvor meget plads varerne optager. Det nederste tal viser til sidst, hvor meget plads besætning og bevæbning kræver.

@@ -1,0 +1,1 @@
+Kuten huomaat, jos laiva on yhä valittuna, kartta keskitetään kaupunkiin, jossa laiva on. Koska laiva on ankkurissa satamassa, et näe sitä suoraan tällä kartalla. Lyypekin vieressä näet kuitenkin pienen viirin, jossa on laiva ja luku. Luku kertoo, kuinka monta laivaa sinulla on kaupungissa.

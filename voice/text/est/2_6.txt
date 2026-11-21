@@ -1,0 +1,1 @@
+Suur vaat näitab laeva veost. Nagu juba mainitud, näitab ülemine arv vaadist paremal laeva kandevõimet. Selle all on näidatud, kui palju ruumi kaubad võtavad. Alumine arv näitab, kui palju ruumi on vaja meeskonnale ja relvadele. Kuna pardal praegu kaupu ei ole, on keskmine arv 0.

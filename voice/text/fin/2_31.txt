@@ -1,0 +1,1 @@
+Kirjan avulla voit selata kaikkia ankkurissa olevia ja korjausta tarvitsevia laivoja. Kirjan alla näet korjauksen hinnan ja sen alla painikkeen, jolla tilaat korjauksen. Napsauta tätä painiketta ja poistu sitten telakalta.

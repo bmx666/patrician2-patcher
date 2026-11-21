@@ -1,0 +1,2 @@
+Näed, millised laevad sulle kuuluvad, mis on nende nimed ja kus nad parajasti asuvad. Selles õpetuses on sul ainult üks laev, seepärast näitab nimekiri vaid ühte laeva.
+Laevade nimekiri näitab nime, laevatüüpi, olekut ja asukohta, veost ning pardal olevate kaupade väärtust. Nimekirja all oleva nupuga saad lülituda meeskonna ja relvastuse vaatele.

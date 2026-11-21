@@ -1,0 +1,1 @@
+Vælg knappen Byggeordre på skibsværftet. Vælg nu et skib med bogen. I starten af et nyt spil kan du vælge mellem tre skibe. Får skibsværftet jævnligt ordrer, bliver det bedre og kan tilbyde bedre skibe. Vælg et skib, og følg anvisningerne for bygningen.

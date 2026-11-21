@@ -1,0 +1,2 @@
+Virsraksta josla atrodas ekrāna augšā. Kad esat pilsētā, tā no kreisās uz labo rāda: iedzīvotāju skaitu, pilsētas nosaukumu, jūsu ēku skaitu pilsētā, jūsu skaidro naudu un datumu.
+Aiz mazajiem simboliem virsraksta joslā slēpjas arī pogas.

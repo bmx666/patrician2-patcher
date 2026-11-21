@@ -1,0 +1,2 @@
+Tämä automaattiohjaus on hyvin kätevä, kun taistelet useita laivoja vastaan.
+Ennen kuin siirryt kolmanteen laivaan, kannattaa harjoitella hieman.Sillä heti kun viimeinen laiva on voitettu, meritaistelu päättyy ja näkymä vaihtuu takaisin merikartaksi.

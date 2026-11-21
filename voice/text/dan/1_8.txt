@@ -1,0 +1,1 @@
+Bygningssymbolet ændrer visningen af bygningerne. Med det kan du skelne dine egne bygninger fra andres.

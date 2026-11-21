@@ -1,0 +1,2 @@
+Vielä yksi vinkki hiiren käyttöön:
+Voit valita kohteita, kuten laivoja ja rakennuksia, hiiren vasemmalla painikkeella. Hiiren oikealla painikkeella voit lähettää valitun laivan toiseen paikkaan. Lisäksi oikealla painikkeella suljetaan ikkuna päänäkymässä.

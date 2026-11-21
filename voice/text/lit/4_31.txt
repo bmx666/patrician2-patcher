@@ -1,0 +1,1 @@
+Šiame lange taip pat matote, kiek patenkinta kiekviena grupė. Nepatenkinta ar pikta miestiečių grupė negali augti, priešingai – ji net mažėja. Kad miestiečiai būtų patenkinti, mieste turi būti bent svarbiausių prekių.

@@ -1,0 +1,1 @@
+Låt oss nu gå vidare till de andra knapparna i skeppsmenyn. Först kommer besättningsinformationen. Klicka på knappen Besättning. Den visar än en gång antalet sjömän och deras veckolön. Eftersom skeppet ligger för ankar kan du avskeda sjömän och kapten. Det bör du dock inte göra nu.

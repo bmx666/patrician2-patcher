@@ -1,0 +1,1 @@
+Här ser du också vilka andra varor som produceras i staden. Klicka på knappen Produktion. Eftersom inga handlare ännu har öppnat något företag i staden visas bara produktionen från stadens egna anläggningar.

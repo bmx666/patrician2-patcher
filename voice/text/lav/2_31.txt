@@ -1,0 +1,1 @@
+Ar grāmatu varat pārslēgties starp visiem noenkurotajiem kuģiem, kam vajadzīgs remonts. Zem grāmatas redzamas remonta izmaksas, bet zem tām – poga remonta pasūtīšanai. Noklikšķiniet uz šīs pogas un pēc tam atstājiet kuģu būvētavu.

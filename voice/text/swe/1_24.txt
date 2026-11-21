@@ -1,0 +1,1 @@
+Titelraden har för övrigt ändrats. Eftersom du inte längre är i en stad visas fyra skeppsknappar. Med dem kan du växla mellan skeppen. Här skiljs mellan ankrade och seglande skepp samt konvojer.

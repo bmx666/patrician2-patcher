@@ -1,0 +1,2 @@
+Nupuriba järgmine nupp on ehitusmenüü. Selle abil saad ehitada hooneid linnades, kus sul on kontor. Kontor on kaupleja kodu, büroo ja ladu ühtaegu.
+Kontorit ja ehitusmenüüd selgitatakse ülejärgmises peatükis.

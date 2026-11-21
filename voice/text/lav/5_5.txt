@@ -1,0 +1,2 @@
+Starp citu, bruņojums kuģim piešķir arī lielāku izturību.
+Tagad aplūkosim klāja funkcijas un rādījumus. Vispirms redzams ātrums, stāvoklis, apkalpe un ieroču stiprums. Blakus ir divas pogas: Abordāža un Uguns.

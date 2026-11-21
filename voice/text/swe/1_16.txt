@@ -1,0 +1,2 @@
+Du ser vilka skepp som tillhör dig, vad de heter och var de befinner sig just nu. I denna handledning har du bara ett skepp, därför visar skeppslistan bara ett skepp.
+Skeppslistan visar namn, skeppstyp, status och position, last och värdet på varorna ombord. Med knappen under listan växlar du till visningen av besättning och beväpning.

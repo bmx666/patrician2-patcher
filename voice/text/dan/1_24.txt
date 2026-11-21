@@ -1,0 +1,1 @@
+Titellinjen har i øvrigt ændret sig. Da du ikke længere er i en by, vises fire skibsknapper. Med dem kan du skifte mellem dine skibe. Der skelnes dog mellem skibe for anker, sejlende skibe og konvojer.

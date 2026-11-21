@@ -1,0 +1,2 @@
+Til venstre for hvert skib i skibslisten er der i øvrigt en gå til-knap. Klikker du på den, springer visningen hen til det sted, hvor skibet befinder sig. Det kan være i en anden by eller til søs. Prøv det for at få skibet Viking ind i synsfeltet.
+Luk derefter skibslisten.

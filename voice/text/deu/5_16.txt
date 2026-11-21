@@ -1,0 +1,1 @@
+Nach jeder Seeschlacht wird eine Zusammenfassung angezeigt, und Sie kehren zur Seekarte zurück.

@@ -1,0 +1,2 @@
+Till höger ser du skeppets besättning och beväpning. Siffran anger antalet sjömän ombord. Stjärnan betyder att det finns en kapten ombord.
+Under vapensymbolen visas stora och små kulor. Högst fem kulor kan visas här, fem små kulor motsvarar en stor.

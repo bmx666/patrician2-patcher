@@ -1,0 +1,1 @@
+Zuerst schauen Sie in der Markthalle nach, wie hoch Verbrauch und Bestand einer Ware sind. Je länger eine Ware reicht, desto niedriger ist ihr Preis.

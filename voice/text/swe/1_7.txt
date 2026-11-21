@@ -1,0 +1,1 @@
+Klicka på befolkningssymbolen för att se befolkningens fördelning och hur nöjda stadens medborgare är. Om pilar syns efter nöjdheten visar de om medborgarna blir mer eller mindre nöjda.

@@ -1,0 +1,2 @@
+Turklāt rādījums parāda, piemēram, cik kuģu stāv ostā uz enkura un gaida jaunus rīkojumus.
+Kuģi, kas atrodas kuģu būvētavā remontā vai uzlabošanā, netiek rādīti, jo tiem nevar dot rīkojumus.

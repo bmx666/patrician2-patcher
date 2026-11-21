@@ -1,0 +1,2 @@
+Be to, čia rodoma, pavyzdžiui, kiek laivų stovi uoste ir laukia naujų įsakymų.
+Laivai, kurie taisomi ar tobulinami laivų statykloje, nerodomi, nes jiems negalima duoti įsakymų.

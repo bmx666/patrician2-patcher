@@ -1,0 +1,1 @@
+Vali nüüd kauplemine linna ja laeva vahel. Vasakul näed kaupu, mis linnal on olemas, ja paremal kaupu, mis on laeval. Kuna alles alustasime, ei ole seal ühtegi.

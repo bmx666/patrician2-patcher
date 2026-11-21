@@ -1,0 +1,1 @@
+Teavet leiad ka kauplemisaknast: jälgi ostu- ja müügihinna vahet. Mida suurem on vahe, seda suurem on linna nõudlus.

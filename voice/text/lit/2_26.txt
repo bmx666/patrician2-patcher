@@ -1,0 +1,2 @@
+Dešiniuoju spustelėjimu davėte laivui naują kelionės tikslą. Laivas nuplauks ten ir lauks tolesnių įsakymų.
+Kad nereikėtų per ilgai laukti, kol laivas pasieks tikslą, pažvelkime į pagreitinimą.

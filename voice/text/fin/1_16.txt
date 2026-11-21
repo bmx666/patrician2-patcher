@@ -1,0 +1,2 @@
+Näet, mitkä laivat kuuluvat sinulle, mitkä niiden nimet ovat ja missä ne juuri nyt ovat. Tässä opetuksessa sinulla on vain yksi laiva, joten luettelossa näkyy vain yksi laiva.
+Laivaluettelo näyttää nimen, laivatyypin, tilan ja sijainnin, lastin sekä laivassa olevien tavaroiden arvon. Luettelon alla olevalla painikkeella voit vaihtaa näkymään, jossa näkyvät miehistö ja aseistus.

@@ -1,0 +1,2 @@
+Kapteenin alla näet kolme arvoa: kauppabonus, matkabonus ja meritaistelubonus. Kapteenista pätee seuraava: mitä vanhempi hän on, sitä kokeneempi hän on.
+Laivavalikon muut painikkeet eivät ole kovin kiinnostavia pelin ensimmäisten tuntien aikana, ja ne selitetään käsikirjassa.

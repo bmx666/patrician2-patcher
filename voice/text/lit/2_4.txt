@@ -1,0 +1,1 @@
+Žemiau esančioje eilutėje pirmiausia rodomas laivo greitis mazgais. Uoste, žinoma, rodomas 0. Šalia matote laivo būklę, kuri dabar yra apie 100%, taigi laivas puikios būklės.

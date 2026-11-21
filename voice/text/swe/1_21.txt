@@ -1,0 +1,2 @@
+Nästa knapp på knappraden är byggmenyn. Med den kan du uppföra byggnader i städer där du har ett kontor. Kontoret är på samma gång handlarens hem, kontor och lager.
+Kontor och byggmeny förklaras i kapitlet efter nästa.

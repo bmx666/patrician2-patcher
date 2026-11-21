@@ -1,0 +1,1 @@
+Även handelsfönstret ger information: lägg märke till skillnaden mellan inköps- och försäljningspris. Ju större skillnaden är, desto större är stadens efterfrågan.

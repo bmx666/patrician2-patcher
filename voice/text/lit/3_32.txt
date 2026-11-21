@@ -1,0 +1,1 @@
+Šis padalijimas tik padeda prekiauti dideliais kiekiais. Mygtukas Maks. atsižvelgia į tai, kiek krovinio vietos dar liko perkamoms prekėms. Parduodant jis atsižvelgia į tai, kiek prekių yra laive. Taip galite parduoti viską iš karto.

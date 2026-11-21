@@ -1,0 +1,1 @@
+Tagad virziet peli uz kāda no šiem būvlaukumiem. Lai būvlaukums būtu redzams, varat izmantot arī tastatūras bultiņas. Kad virzāt peles rādītāju pāri būvlaukumam, darbnīca izgaismojas. Tagad noklikšķiniet ar kreiso pogu.

@@ -1,0 +1,1 @@
+Valikuaknas näed nüüd ehituskulusid, ehitusaega ja vajalikke ehitusmaterjale. Need materjalid võetakse sinu kontorist, kui need on seal olemas. Kui ei ole, ostetakse need otse linnast ja näidatakse vastavaid ostuhindu.

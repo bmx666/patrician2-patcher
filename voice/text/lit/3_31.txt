@@ -1,0 +1,1 @@
+Dabar pažvelkite į tris mygtukus prekybos lango apačioje. Čia nurodote, kiek vienetų norite pirkti ar parduoti. Ar perkate 5 vienetus iš karto, ar 5 kartus po vieną tos pačios prekės vienetą, galiausiai nesvarbu. Bendra kaina abiem atvejais ta pati.

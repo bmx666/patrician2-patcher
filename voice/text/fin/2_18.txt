@@ -1,0 +1,1 @@
+Nyt kun laiva on matkalla, meillä on hieman enemmän aikaa tutustua merikarttaan tarkemmin. Siirrä karttaa niin, että Lyypekki tulee taas näkyviin. Kaikilla muilla kaupungeilla on punainen painike, mutta Lyypekillä on sininen, mikä kertoo, että Lyypekki on kotikaupunkisi.

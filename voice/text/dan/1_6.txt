@@ -1,0 +1,2 @@
+Titellinjen sidder øverst på skærmen. Når du er i en by, viser den fra venstre mod højre: befolkning, byens navn, antallet af dine bygninger i byen, dine kontanter og datoen.
+Bag de små symboler på titellinjen gemmer der sig også knapper.

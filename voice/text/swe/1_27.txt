@@ -1,0 +1,2 @@
+Ännu ett tips för musen:
+Med vänsterklick väljer du objekt som skepp och byggnader. Med högerklick skickar du det valda skeppet till en annan plats. Dessutom används högerklick för att stänga fönster i huvudvyn.

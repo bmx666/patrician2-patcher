@@ -1,0 +1,1 @@
+Hovedvisningen viser bare et utsnitt av byen. Flytt musepekeren til kanten av skjermen, eller bruk piltastene for å flytte utsnittet.

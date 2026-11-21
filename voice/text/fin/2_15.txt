@@ -1,0 +1,1 @@
+Valintaikkuna näyttää nyt laivan muuttuneen tilan. Ankkurisymbolin sijaan näet nyt laivan ja määränpäänä Riian. Myös matkan arvioitu kesto päivinä näytetään.

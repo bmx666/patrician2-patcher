@@ -1,0 +1,1 @@
+Observera att produktionskostnaden för en viss vara inte är densamma i varje stad. I vissa städer kan varor framställas på särskilt gynnsamma villkor, i andra mindre gynnsamt, och i vissa kan vissa varor inte framställas alls. I städer med låg produktion är produktionskostnaden motsvarande högre. Titta gärna på den bifogade kartan.

@@ -1,0 +1,1 @@
+Laivų statykloje pasirinkite mygtuką Statybos užsakymas. Dabar knyga pasirinkite laivą. Naujo žaidimo pradžioje galima rinktis iš trijų laivų. Jei laivų statykla reguliariai gauna užsakymų, jos kokybė gerėja ir ji gali pasiūlyti geresnių laivų. Pasirinkite laivą ir vykdykite statybos nurodymus.

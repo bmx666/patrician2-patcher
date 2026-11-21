@@ -1,0 +1,2 @@
+Außerdem werden hier die Geschwindigkeit des Schiffes in Knoten, sein Zustand von 0 bis 100% und die Besatzung angezeigt.
+Daneben steht die Kampfstärke des Schiffes.

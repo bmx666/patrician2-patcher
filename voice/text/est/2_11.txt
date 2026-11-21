@@ -1,0 +1,1 @@
+Nagu näed, kui laev on endiselt valitud, asetub linn, kus laev asub, kaardi keskele. Kuna laev seisab sadamas ankrus, ei näe sa seda kaardil otse. Lübecki linna kõrval näed aga väikest lippu laeva ja arvuga. See on sinu laevade arv selles linnas.

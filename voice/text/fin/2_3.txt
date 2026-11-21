@@ -1,0 +1,1 @@
+Laivan nimen alla on ankkuri ja kaupungin nimi, Lyypekki. Ankkuri ja sijainti kertovat, että laiva on ankkurissa Lyypekissä. Ankkurin sijaan siinä voi olla jokin muu symboli, esimerkiksi kun laiva on merellä, mutta siihen palaamme myöhemmin.

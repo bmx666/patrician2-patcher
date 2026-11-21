@@ -1,0 +1,1 @@
+Die Minikarte zeigt das gesamte Stadtgebiet. Das Rechteck steht für den angezeigten Ausschnitt. Wenn Sie den Ausschnitt verschieben, bewegt sich auch das Rechteck.

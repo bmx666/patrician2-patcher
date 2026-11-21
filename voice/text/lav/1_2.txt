@@ -1,0 +1,3 @@
+Apmācība ir sadalīta vairākās daļās. Šajā daļā jūs iepazīsieties ar spēles vadības paneli.
+Lūdzu, ņemiet vērā:
+Šai apmācībai izvēlieties vismaz 1024 reiz 768 izšķirtspēju.

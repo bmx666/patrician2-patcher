@@ -1,0 +1,1 @@
+Som övning ska du mönstra 5 sjömän genom att flytta sjömän från krogen till skeppet och klicka på knappen Hyr sjömän.

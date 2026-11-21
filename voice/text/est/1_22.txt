@@ -1,0 +1,2 @@
+Kui klõpsad linnavärava nupul, lahkud linnast ja satud merekaardile.
+Linna asemel kuvatakse nüüd merekaart. Vaatelõiku saad nagu ikka nihutada klaviatuuri nooleklahvidega.

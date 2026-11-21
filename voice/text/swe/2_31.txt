@@ -1,0 +1,1 @@
+Med boken bläddrar du mellan alla ankrade skepp som behöver repareras. Under boken ser du reparationskostnaden och därunder knappen för att beställa reparationen. Klicka på knappen och lämna sedan varvet.

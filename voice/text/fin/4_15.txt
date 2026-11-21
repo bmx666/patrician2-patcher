@@ -1,0 +1,1 @@
+Siirrä nyt hiiri jonkin tontin päälle. Voit myös tuoda tontin näkyviin näppäimistön nuolinäppäimillä. Kun siirrät hiiren osoittimen tontin päälle, verstas syttyy näkyviin. Napsauta nyt hiiren vasemmalla painikkeella.

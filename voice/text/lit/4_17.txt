@@ -1,0 +1,1 @@
+Dabar įjunkite pagreitinimą, kol dirbtuvės bus baigtos. Tada spustelėkite baigtą pastatą. Pirmiausia parodoma, kiek dirbtuvių turite Liubeke. Šalia darbininkų simbolio matote, kiek darbininkų dabar yra ir koks didžiausias reikalingas jų skaičius.

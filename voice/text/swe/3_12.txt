@@ -1,0 +1,1 @@
+Menyn visas bara om du har ett kontor i staden och ett skepp är valt; först då kan du välja mellan handelsmöjligheterna.

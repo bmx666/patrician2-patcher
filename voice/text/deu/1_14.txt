@@ -1,0 +1,1 @@
+Darunter sehen Sie eine Liste aller Waren an Bord. Beachten Sie, dass es zwei Maßeinheiten gibt: Last und Fass. Eine Last entspricht genau 10 Fass.

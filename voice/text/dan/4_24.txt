@@ -1,0 +1,1 @@
+Lad os nu bygge et beboelseshus. Du skal vide, at der for hver arbejder i byen i gennemsnit skal være plads til fire borgere i et hus, for hver arbejder har også en familie. Er der ikke nok boliger, kan antallet af arbejdere ikke stige.

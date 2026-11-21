@@ -1,0 +1,1 @@
+Kui oled laeva valinud, näitab valikuaken, kui kaua parandamine eeldatavasti kestab. See sõltub muidugi laeva praegusest seisukorrast. Oota nüüd, kuni parandamine on lõpetatud. Selleks võid kasutada ka kiirkerimise nuppu.

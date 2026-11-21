@@ -1,0 +1,2 @@
+På sjökortet visas alla städer och dina skepp. Även händelser till sjöss och främmande skepp syns här.
+Från kartan kan du gå in i varje stad där du har skepp eller byggnader. I denna handledning finns du bara i Lübeck.

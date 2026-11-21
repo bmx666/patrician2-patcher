@@ -1,0 +1,1 @@
+Napsauta nyt kerran otsikkopalkin väestösymbolia. Ikkunassa näet kunkin ryhmän koon. Huomaa, että kaupungissa on aina vähemmän rikkaita kuin varakkaita ja vähemmän varakkaita kuin köyhiä.

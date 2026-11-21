@@ -1,0 +1,2 @@
+Mutta ensin muutama perussana kaupankäynnistä.
+Kauppa perustuu siihen, että kaupungit tuottavat erilaisia tavaroita. Toisaalta kaupunkien porvarit ja tuotantolaitokset tarvitsevat kaikkia tavaroita. Siksi jokaisen kaupungin on tuotava tiettyjä tavaroita kukoistaakseen.

@@ -1,0 +1,2 @@
+Painikkeen Tulta sijaan voit myös painaa näppäimistön välilyöntinäppäintä tai numeronäppäimistön nollaa.
+Painikkeella Valtaa annat laivallesi käskyn vallata vihollislaiva, jos mahdollista. Valtaus alkaa heti, kun laivat ovat lähellä toisiaan.

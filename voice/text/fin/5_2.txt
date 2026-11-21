@@ -1,0 +1,1 @@
+Jos kohtaat merirosvon merikartalla, saat siitä tiedon, ja sinulta kysytään lisäksi, haluatko käydä meritaistelun automaattisesti vai itse ohjaten. Jos valitset itse ohjaamisen, siirryt tähän meritaistelunäkymään.

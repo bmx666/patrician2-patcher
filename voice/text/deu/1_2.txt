@@ -1,0 +1,3 @@
+Die Einführung ist in mehrere Teile gegliedert. In diesem Teil lernen Sie die Bedienung der Spieloberfläche kennen.
+Bitte beachten Sie:
+Für diese Einführung sollten Sie eine Auflösung von mindestens 1024 mal 768 wählen.

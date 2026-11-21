@@ -1,0 +1,2 @@
+Under kaptajnen ser du tre værdier: handelsbonus, rejsebonus og søslagsbonus. For en kaptajn gælder: jo ældre han er, desto mere erfaren er han.
+De øvrige knapper i skibsmenuen er ikke så interessante i spillets første timer og forklares i håndbogen.

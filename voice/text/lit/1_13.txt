@@ -1,0 +1,2 @@
+Be to, čia rodomas laivo greitis mazgais, laivo būklė nuo 0 iki 100% ir įgula.
+Šalia – laivo ginkluotės stiprumas.

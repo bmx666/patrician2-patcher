@@ -1,0 +1,1 @@
+Klicka nu en gång på befolkningssymbolen på titelraden. I ett fönster ser du hur stor varje grupp är. Observera att det alltid finns färre rika än välbärgade, och färre välbärgade än fattiga i en stad.

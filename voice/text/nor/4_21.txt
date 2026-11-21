@@ -1,0 +1,1 @@
+Merk at produksjonskostnaden for en vare ikke er den samme i alle byer. I noen byer kan varer produseres særlig gunstig, i andre mindre gunstig, og i andre kan de ikke produseres i det hele tatt.  I byer med lav produksjon er kostnadene tilsvarende høyere. Se gjerne på det vedlagte kartet.

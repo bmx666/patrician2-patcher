@@ -1,0 +1,2 @@
+Desuden viser den for eksempel, hvor mange skibe der ligger for anker i en havn og venter på nye ordrer.
+Skibe, der er på skibsværftet til reparation eller udbygning, vises ikke, fordi de ikke kan få ordrer.

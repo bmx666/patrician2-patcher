@@ -1,0 +1,1 @@
+Ar šo pogu varat pārslēgties starp jūras karti un pilsētas karti, bet tikai tad, kad esat pilsētā. Ērti ir tas, ka kuģi var nosūtīt uz citu pilsētu, neatstājot pilsētu, kurā atrodaties.

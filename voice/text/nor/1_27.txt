@@ -1,0 +1,2 @@
+Enda et tips om bruk av musen:
+Med venstreklikk velger du objekter som skip og bygninger. Med høyreklikk sender du det valgte skipet til et annet sted. Ellers brukes høyreklikk til å lukke et vindu i hovedvisningen.

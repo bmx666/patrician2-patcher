@@ -1,0 +1,1 @@
+Dabar pereikime prie kitų laivo meniu mygtukų. Pirmiausia – informacija apie įgulą. Spustelėkite mygtuką Įgula. Jis dar kartą parodo jūreivių skaičių ir jų savaitinę algą. Kadangi laivas stovi uoste, galite atleisti jūreivius ir kapitoną. Tačiau dabar to nedarykite.

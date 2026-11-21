@@ -1,0 +1,2 @@
+Katsotaan painikepalkkia ja käydään painikkeet läpi vasemmalta oikealle.
+Ensimmäinen painike näyttää laivaluettelon. Napsauta sitä.

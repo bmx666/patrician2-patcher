@@ -1,0 +1,1 @@
+Alumisel real näidatakse kõigepealt laeva kiirust sõlmedes. Sadamas on see muidugi 0. Selle kõrval näed laeva seisukorda, mis on praegu umbes 100%, seega on laev laitmatus korras.

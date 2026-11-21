@@ -1,0 +1,1 @@
+Blakus tikko nopirktajām zivīm ir skaitlis. Tā ir vidējā cena, ko jūs samaksājāt par preces vienību. Tagad jums jāatrod pilsēta, kas samaksās vairāk par šo cenu. Tikai tad varat gūt peļņu.

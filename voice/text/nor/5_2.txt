@@ -1,0 +1,1 @@
+Møter du en pirat på sjøkartet, får du beskjed om det og blir dessuten spurt om du vil utkjempe sjøslaget automatisk eller manuelt. Velger du manuelt, kommer du til denne visningen av sjøslaget.

@@ -1,0 +1,2 @@
+Kun napsautat kaupunginportin painiketta, poistut kaupungista ja siirryt merikartalle.
+Kaupungin sijaan näytetään merikartta. Voit siirtää näkymää tavalliseen tapaan näppäimistön nuolinäppäimillä.

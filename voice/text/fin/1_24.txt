@@ -1,0 +1,1 @@
+Otsikkopalkki on muuten muuttunut. Koska et ole enää kaupungissa, siinä näkyy neljä laivapainiketta. Niillä voit vaihtaa laivojen välillä. Painikkeet erottelevat ankkurissa olevat laivat, purjehtivat laivat ja saattueet.

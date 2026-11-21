@@ -1,0 +1,1 @@
+Minikaart näitab kogu linna ala. Ristkülik tähistab nähtavat vaatelõiku. Kui nihutad vaatelõiku, liigub ka ristkülik.

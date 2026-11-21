@@ -1,0 +1,1 @@
+Mit dem Buch blättern Sie durch alle ankernden Schiffe, die repariert werden müssen. Unter dem Buch sehen Sie die Reparaturkosten und darunter den Knopf, mit dem Sie die Reparatur in Auftrag geben. Klicken Sie auf diesen Knopf und verlassen Sie dann die Werft.

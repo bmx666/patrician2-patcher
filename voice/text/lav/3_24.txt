@@ -1,0 +1,1 @@
+Ar pogu Patēriņš varat apskatīt, kādas preces un cik daudz pilsoņi un uzņēmumi pilsētā patērē katru nedēļu. Pēc šiem daudzumiem varat aplēst, cik ilgi preces būs pieejamas.

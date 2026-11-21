@@ -1,0 +1,2 @@
+Låt oss först titta på hur spelets gränssnitt är indelat. Det består av fem delar.
+Här visas städerna och sjökortet. I början av ett spel startar du alltid i din hemstad, som i det här fallet är Lübeck.

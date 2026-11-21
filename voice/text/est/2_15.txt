@@ -1,0 +1,1 @@
+Valikuaken näitab nüüd laeva muutunud olekut. Ankru sümboli asemel näed nüüd laeva ja sihtlinnana Riiat. Näidatakse ka sõidu eeldatavat kestust päevades.

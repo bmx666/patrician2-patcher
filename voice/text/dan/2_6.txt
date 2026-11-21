@@ -1,0 +1,1 @@
+Den store tønde viser skibets last. Som nævnt viser det øverste tal til højre for tønden skibets lasteevne. Nedenunder står, hvor meget plads varerne optager. Det nederste tal viser, hvor meget plads besætning og våben kræver. Da der ingen varer er om bord, står det midterste tal på 0.

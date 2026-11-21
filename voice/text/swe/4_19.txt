@@ -1,0 +1,1 @@
+Därunder ser du vilka råvaror anläggningen behöver och vilka varor den producerar. Verkstaden behöver tackjärn och timmer och producerar järnvaror. För att anläggningen ska börja producera måste råvarorna finnas i ditt kontor, vilket de gör just nu.

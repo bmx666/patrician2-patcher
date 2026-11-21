@@ -1,0 +1,1 @@
+In der Zeile darunter steht zuerst die Geschwindigkeit des Schiffes in Knoten. Im Hafen ist das natürlich 0. Daneben sehen Sie den Zustand des Schiffes. Er liegt gerade bei etwa 100%, das Schiff ist also in bestem Zustand.

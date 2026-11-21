@@ -1,0 +1,1 @@
+Minikartalla kaupungit näkyvät pieninä vinoneliöinä. Katso kartan ylimpänä olevaa kaupunkia. Se on Bergen. Etsi nyt laivasi Riian satamasta, valitse se ja napsauta Bergeniä hiiren oikealla painikkeella. Vahvistukseksi kaupunki välähtää hetken. Jos ei välähdä, osuit ohi, ja sinun kannattaa yrittää uudelleen.

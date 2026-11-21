@@ -1,0 +1,1 @@
+Beachten Sie, dass die Herstellungskosten einer Ware nicht in jeder Stadt gleich sind. In manchen Städten lassen sich Waren besonders günstig herstellen, in anderen weniger, und in manchen gar nicht. In Städten mit geringer Produktion sind die Kosten entsprechend höher. Bitte sehen Sie sich dazu die beiliegende Karte an.

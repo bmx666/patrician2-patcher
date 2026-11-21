@@ -1,0 +1,1 @@
+Didelė statinė rodo laivo krovinį. Kaip jau minėta, viršutinis skaičius statinės dešinėje rodo laivo talpą. Po juo nurodyta, kiek vietos užima prekės. Apatinis skaičius rodo, kiek vietos reikia įgulai ir ginklams. Kadangi laive dabar nėra prekių, vidurinis skaičius yra 0.

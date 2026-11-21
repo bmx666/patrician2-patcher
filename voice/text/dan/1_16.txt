@@ -1,0 +1,2 @@
+Her ser du, hvilke skibe der tilhører dig, hvad de hedder, og hvor de er lige nu. I denne introduktion har du kun ét skib, derfor viser skibslisten kun ét skib.
+Skibslisten viser navn, skibstype, status og opholdssted, last og værdien af varerne om bord. Med knappen under listen kan du skifte til en visning af besætning og bevæbning.

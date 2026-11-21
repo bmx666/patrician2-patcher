@@ -1,0 +1,1 @@
+I linjen nedenunder vises først skibets fart i knob. I havnen står der naturligvis 0. Ved siden af ser du skibets tilstand, som lige nu er omkring 100%, så skibet er altså i perfekt stand.

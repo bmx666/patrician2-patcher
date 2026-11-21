@@ -1,0 +1,2 @@
+I stedet for at klikke på Fyr kan du også trykke på mellemrumstasten eller tallet 0 på det numeriske tastatur.
+Med knappen Entring giver du dit skib signal til at entre fjendens skib, hvis det er muligt. Entringen begynder, så snart skibene er tæt på hinanden.

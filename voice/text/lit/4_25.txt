@@ -1,0 +1,2 @@
+Kiek užimti esami būstai, sužinosite spustelėję namą.
+Kiekvienas gyvenamasis namas turi tris pakopas, iš kurių galite pastatyti tik pirmąją. Aukštesnės pakopos pasiekiamos, kai į jį įsikelia vis daugiau žmonių.

@@ -1,0 +1,1 @@
+Mellem by og skib sidder knapperne Køb og Sælg. På hver knap står der allerede en pris. Køb betyder, at du køber. Sælg betyder, at du sælger.

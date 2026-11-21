@@ -1,0 +1,3 @@
+Handledningen är indelad i flera delar. I denna del lär du dig att hantera spelets kontrollpanel.
+Observera:
+Du bör välja en upplösning på minst 1024 gånger 768 för denna handledning.

@@ -1,0 +1,1 @@
+Mit dem vorletzten Knopf im Nachrichtenmenü stellen Sie die Briefablage so ein, dass Briefe später automatisch gelöscht werden. Sie können einen Brief auch löschen, indem Sie ihn anklicken und dann rechts im Nachrichtenmenü auf Löschen klicken.

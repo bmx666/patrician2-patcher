@@ -1,0 +1,1 @@
+Kairiuoju pelės mygtuku spustelėkite mygtuką Pagreitinti mygtukų juostoje. Pirmiausia matysite bendrą visos jūros žemėlapį ir visus pakeliui esančius laivus. Be to, laikas bėga labai greitai. Žemėlapis rodomas, kol kuris nors laivas pasiekia tikslą arba paspaudžiate pelės mygtuką.

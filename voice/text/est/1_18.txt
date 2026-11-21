@@ -1,0 +1,1 @@
+Järgmine nupp on kiirkerimine. Kui sellele vajutad, kulgeb aeg kiiremini. Samal ajal saad üldkaardil jälgida kõiki oma laevu. Kiirkerimine lõpeb, kui vajutad hiirenuppu või kui mõni sinu laev jõuab sadamasse ankrusse.

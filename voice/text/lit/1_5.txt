@@ -1,0 +1,1 @@
+Minižemėlapis rodo visą miesto teritoriją. Stačiakampis žymi matomą dalį. Paslinkus vaizdą, pasislenka ir stačiakampis.

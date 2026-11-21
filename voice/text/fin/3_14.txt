@@ -1,0 +1,1 @@
+Osto- ja myyntipainikkeet ovat kaupungin ja laivan välissä. Jokaisessa painikkeessa on jo hinta. Osta tarkoittaa, että sinä ostat. Myy tarkoittaa, että sinä myyt.

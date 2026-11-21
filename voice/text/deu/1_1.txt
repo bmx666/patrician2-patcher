@@ -1,0 +1,3 @@
+Willkommen bei Patrician 2, der Simulation des Seehandels zur Zeit der Hanse.
+In dieser Einführung lernen Sie, wie Sie vom einfachen Krämer zum Fernkaufmann aufsteigen.
+Mit den beiden Knöpfen rechts neben diesem Text können Sie zwischen den einzelnen Schritten der Einführung vor- und zurückblättern.

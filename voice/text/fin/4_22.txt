@@ -1,0 +1,1 @@
+Voit muuten saada tietoja myös laitoksista, joita et ole itse rakentanut. Minikartta näyttää sinun ja muiden rakennukset. Sinun rakennuksesi ovat sinisiä, muiden kauppiaiden valkoisia ja kaupungin harmaita.

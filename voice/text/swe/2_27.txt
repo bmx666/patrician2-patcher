@@ -1,0 +1,1 @@
+Vänsterklicka på knappen Snabbspolning på knappraden. Först ser du en översiktskarta över hela havsområdet och alla skepp som är på väg. Dessutom går tiden mycket fort. Kartan visas tills ett skepp har nått sitt mål eller du trycker på en musknapp.

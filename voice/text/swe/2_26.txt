@@ -1,0 +1,2 @@
+Med högerklicket har du gett ditt skepp en ny destination. Skeppet seglar dit och väntar på nya order.
+För att vi inte ska behöva vänta alltför länge på att skeppet når sitt mål ska vi titta på snabbspolningen.

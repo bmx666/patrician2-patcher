@@ -1,0 +1,2 @@
+Katsotaan ensin, miten pelin käyttöliittymä on jaettu. Se koostuu viidestä osasta.
+Tässä näytetään kaupungit ja merikartta. Pelin alussa aloitat aina kotikaupungistasi, joka tässä tapauksessa on Lyypekki.

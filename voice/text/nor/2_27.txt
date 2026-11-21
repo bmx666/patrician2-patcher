@@ -1,0 +1,1 @@
+Venstreklikk på knappen Hurtigspoling på knapperaden. Først ser du et oversiktskart over hele havområdet og alle skip som er underveis. Dessuten går tiden svært fort. Kartet vises helt til et skip har nådd målet sitt, eller du trykker på en museknapp.
