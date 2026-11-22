@@ -100,7 +100,7 @@ dependencies = [
 
 [[package]]
 name = "patrician2-patcher"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "flate2",
  "sha2",
