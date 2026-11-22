@@ -1,6 +1,6 @@
 [package]
 name = "patrician2-patcher"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 license = "MIT"
 description = "Unofficial patcher for Patrician 2 (GOG): 10 languages with in-game switch, widescreen, bug fixes and QoL improvements."
