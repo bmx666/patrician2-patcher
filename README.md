@@ -61,7 +61,7 @@ full screen and works well under Wine (e.g. in GameHub). It is not part of this 
    executable without `.exe`):
 
 ```ini
-[Patrician 2]
+[Patrician2]
 windowed=true
 fullscreen=true
 border=false
