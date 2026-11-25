@@ -7,7 +7,7 @@ at run time, so you don't need to rebuild or re-run the patcher.
 |---|---|
 | `text/<code>/<chapter>_<screen>.txt` | text to speak on one tutorial screen, 160 files per language |
 | `say.sh` | macOS: renders the texts with the system voices (`say`) |
-| `siri.sh` | macOS: renders the texts with Siri voices ([siri-say](https://github.com/bmx666/siri-say/tree/fix-out)) |
+| `siri.sh` | macOS: renders the texts with Siri voices ([siri-say](https://github.com/marcomontalbano/siri-say)) |
 
 The texts are the spoken version of the tutorial: headings are left out and numbers are written as
 words. Read them as they are.
@@ -59,7 +59,7 @@ A screen without a file (or with a misnamed one) is silent. `.mp3` and `.aac` ca
 
 1. Get siri-say (needs macOS 13+ and `xcode-select --install`):
    ```sh
-   git clone -b fix-out https://github.com/bmx666/siri-say.git
+   git clone https://github.com/marcomontalbano/siri-say
    ```
 2. Download the Siri voice in *Manage Voices* (see above) and find its identifier:
    ```sh
